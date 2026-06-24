@@ -1,0 +1,659 @@
+[
+  {
+    "id": "min-road-transport",
+    "name_bn": "সড়ক পরিবহন ও সেতু মন্ত্রণালয়",
+    "parent_office_id": "pm-office",
+    "office_type_bn": "মন্ত্রণালয়",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "সড়ক পরিবহন আইন, ২০১৮; সেতু আইন, ২০২০",
+    "target_audience_bn": "সড়ক পরিবহন খাতের উদ্যোক্তা, চালক, যাত্রী এবং সাধারণ নাগরিক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.rhd.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬২৩৪"
+    },
+    "description_bn": "দেশের সড়ক ও সেতু অবকাঠামো উন্নয়ন, রক্ষণাবেক্ষণ এবং সড়ক পরিবহন ব্যবস্থাপনার নীতি নির্ধারণ ও বাস্তবায়ন করে। এর অধীনে সড়ক ও জনপথ অধিদপ্তর (RHD), বাংলাদেশ সড়ক পরিবহন কর্তৃপক্ষ (BRTA), বাংলাদেশ সড়ক পরিবহন কর্পোরেশন (BRTC) এবং বাংলাদেশ সেতু কর্তৃপক্ষ (BBA) কাজ করে।"
+  },
+  {
+    "id": "road-rhd",
+    "name_bn": "সড়ক ও জনপথ অধিদপ্তর",
+    "parent_office_id": "min-road-transport",
+    "office_type_bn": "কারিগরি অধিদপ্তর (Directorate)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "সড়ক ও জনপথ আইন, ১৯২৫; সড়ক পরিবহন আইন, ২০১৮",
+    "target_audience_bn": "সড়ক ব্যবহারকারী, ঠিকাদার, পরিকল্পনাবিদ এবং প্রকৌশলীগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.rhd.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৭৪২১"
+    },
+    "description_bn": "জাতীয় মহাসড়ক, আঞ্চলিক সড়ক ও জেলা সড়ক নির্মাণ, রক্ষণাবেক্ষণ ও উন্নয়নের দায়িত্ব পালন করে। দেশের প্রধান প্রধান সেতু ও কালভার্ট নির্মাণেও এর গুরুত্বপূর্ণ ভূমিকা রয়েছে।"
+  },
+  {
+    "id": "road-brta",
+    "name_bn": "বাংলাদেশ সড়ক পরিবহন কর্তৃপক্ষ",
+    "parent_office_id": "min-road-transport",
+    "office_type_bn": "নিয়ন্ত্রক সংস্থা (Regulatory Authority)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "সড়ক পরিবহন আইন, ২০১৮",
+    "target_audience_bn": "যানবাহন মালিক, চালক, ফিটনেস সেন্টার এবং সড়ক পরিবহন উদ্যোক্তাগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.brta.gov.bd",
+      "phone": "+৮৮০-২-৯৮৮০৪৬৭"
+    },
+    "description_bn": "যানবাহন রেজিস্ট্রেশন, ড্রাইভিং লাইসেন্স প্রদান, যানবাহনের ফিটনেস পরীক্ষা ও সড়ক পরিবহন আইন বাস্তবায়ন করে। এছাড়া সড়ক দুর্ঘটনা প্রতিরোধ ও সড়ক নিরাপত্তা নিশ্চিতকরণে কাজ করে।"
+  },
+  {
+    "id": "road-brtc",
+    "name_bn": "বাংলাদেশ সড়ক পরিবহন কর্পোরেশন",
+    "parent_office_id": "min-road-transport",
+    "office_type_bn": "সরকারি পরিবহন সংস্থা (State-owned Corporation)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বাংলাদেশ সড়ক পরিবহন কর্পোরেশন অধ্যাদেশ, ১৯৬১",
+    "target_audience_bn": "সাধারণ যাত্রী, পণ্য পরিবহন গ্রাহক এবং সরকারি পরিবহন সেবা গ্রহীতাগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.brtc.gov.bd",
+      "phone": "+৮৮০-২-৯৩৫১১৭১"
+    },
+    "description_bn": "সারাদেশে গণপরিবহন সেবা প্রদান, আন্তঃজেলা বাস ও কার্গো সার্ভিস পরিচালনা এবং জরুরি পরিবহন সেবা নিশ্চিত করে। শহর ও গ্রামীণ অঞ্চলে সাশ্রয়ী মূল্যে যাত্রী ও পণ্য পরিবহনই এর প্রধান লক্ষ্য।"
+  },
+  {
+    "id": "road-bba",
+    "name_bn": "বাংলাদেশ সেতু কর্তৃপক্ষ",
+    "parent_office_id": "min-road-transport",
+    "office_type_bn": "স্বায়ত্তশাসিত সংস্থা (Autonomous Body)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বাংলাদেশ সেতু কর্তৃপক্ষ আইন, ২০১০",
+    "target_audience_bn": "সেতু ব্যবহারকারী, ঠিকাদার, প্রকৌশলী এবং অবকাঠামো বিনিয়োগকারীগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.bba.gov.bd",
+      "phone": "+৮৮০-২-৯৫১২৮৭৭"
+    },
+    "description_bn": "দেশের গুরুত্বপূর্ণ সেতু নির্মাণ, রক্ষণাবেক্ষণ ও টোল সংগ্রহ করে। পদ্মা সেতু, তৃতীয় শাহজালাল সেতুসহ বড় বড় প্রকল্প এর অধীনে বাস্তবায়িত হয়েছে।"
+  },
+  {
+    "id": "min-railways",
+    "name_bn": "রেলপথ মন্ত্রণালয়",
+    "parent_office_id": "pm-office",
+    "office_type_bn": "মন্ত্রণালয়",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "রেলওয়ে আইন, ১৮৯০; বাংলাদেশ রেলওয়ে অধ্যাদেশ, ১৯৮২",
+    "target_audience_bn": "রেলযাত্রী, পণ্য পরিবহন গ্রাহক এবং রেলওয়ে কর্মচারীবৃন্দ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.railway.gov.bd",
+      "phone": "+৮৮০-২-৯৫৬০২০২"
+    },
+    "description_bn": "দেশের রেলপথ সম্প্রসারণ, রেল যোগাযোগ ও রেলওয়ে ব্যবস্থাপনার নীতি নির্ধারণ করে। বাংলাদেশ রেলওয়ের সার্বিক তদারকি ও উন্নয়ন প্রকল্প বাস্তবায়নের দায়িত্ব এই মন্ত্রণালয়ের উপর ন্যস্ত।"
+  },
+  {
+    "id": "railway-br",
+    "name_bn": "বাংলাদেশ রেলওয়ে",
+    "parent_office_id": "min-railways",
+    "office_type_bn": "সরকারি পরিবহন সংস্থা (State-owned Enterprise)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বাংলাদেশ রেলওয়ে অধ্যাদেশ, ১৯৮২; রেলওয়ে আইন, ১৮৯০",
+    "target_audience_bn": "রেলযাত্রী, পণ্য চালান গ্রাহক এবং পর্যটকগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.railway.gov.bd",
+      "phone": "+৮৮০-২-৯৫১৪১২৪"
+    },
+    "description_bn": "দেশের রেলপথে যাত্রী ও পণ্য পরিবহন সেবা প্রদান করে। টিকেটিং, ট্রেন শিডিউলিং, রেল লাইন রক্ষণাবেক্ষণ ও নিরাপত্তা নিশ্চিত করা এর প্রধান দায়িত্ব।"
+  },
+  {
+    "id": "railway-brtm",
+    "name_bn": "বাংলাদেশ রেলওয়ে ট্রেনিং একাডেমি",
+    "parent_office_id": "min-railways",
+    "office_type_bn": "প্রশিক্ষণ প্রতিষ্ঠান (Training Academy)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বাংলাদেশ রেলওয়ে অধ্যাদেশ, ১৯৮২",
+    "target_audience_bn": "রেলওয়ের কর্মকর্তা ও কর্মচারীবৃন্দ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.brta.railway.gov.bd"
+    },
+    "description_bn": "রেলওয়ের কর্মকর্তা ও কর্মচারীদের জন্য প্রযুক্তিগত ও ব্যবস্থাপনাগত প্রশিক্ষণ প্রদান করে। লোকোমাস্টার, স্টেশন মাস্টার ও অন্যান্য রেলওয়ে কর্মীদের দক্ষতা উন্নয়নে কাজ করে।"
+  },
+  {
+    "id": "railway-west",
+    "name_bn": "রেলওয়ে পশ্চিমাঞ্চল",
+    "parent_office_id": "min-railways",
+    "office_type_bn": "আঞ্চলিক কার্যালয় (Zonal Office)",
+    "jurisdiction_bn": "বাংলাদেশের পশ্চিমাঞ্চল (রাজশাহী, রংপুর, খুলনা ও বরিশাল বিভাগ)",
+    "governing_law_bn": "বাংলাদেশ রেলওয়ে অধ্যাদেশ, ১৯৮২",
+    "target_audience_bn": "পশ্চিমাঞ্চলের রেলযাত্রী ও পণ্য পরিবহন গ্রাহকগণ",
+    "category": "Executive",
+    "contact_info": {
+      "phone": "+৮৮০-৪২১-৭২০০৭"
+    },
+    "description_bn": "বাংলাদেশ রেলওয়ের পশ্চিমাঞ্চলের ট্রেন পরিচালনা, রেলপথ রক্ষণাবেক্ষণ ও স্টেশন ব্যবস্থাপনার দায়িত্ব পালন করে। প্রধান কার্যালয় রাজশাহীতে অবস্থিত।"
+  },
+  {
+    "id": "railway-east",
+    "name_bn": "রেলওয়ে পূর্বাঞ্চল",
+    "parent_office_id": "min-railways",
+    "office_type_bn": "আঞ্চলিক কার্যালয় (Zonal Office)",
+    "jurisdiction_bn": "বাংলাদেশের পূর্বাঞ্চল (ঢাকা, চট্টগ্রাম, সিলেট ও ময়মনসিংহ বিভাগ)",
+    "governing_law_bn": "বাংলাদেশ রেলওয়ে অধ্যাদেশ, ১৯৮২",
+    "target_audience_bn": "পূর্বাঞ্চলের রেলযাত্রী ও পণ্য পরিবহন গ্রাহকগণ",
+    "category": "Executive",
+    "contact_info": {
+      "phone": "+৮৮০-২-৯৫১০৩০০"
+    },
+    "description_bn": "বাংলাদেশ রেলওয়ের পূর্বাঞ্চলের ট্রেন পরিচালনা, রেলপথ রক্ষণাবেক্ষণ ও স্টেশন ব্যবস্থাপনার দায়িত্ব পালন করে। প্রধান কার্যালয় চট্টগ্রামে অবস্থিত।"
+  },
+  {
+    "id": "min-shipping",
+    "name_bn": "নৌপরিবহন মন্ত্রণালয়",
+    "parent_office_id": "pm-office",
+    "office_type_bn": "মন্ত্রণালয়",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "নৌপরিবহন আইন, ২০২০; বন্দর আইন, ১৯০৮; মেরিন ইনস্পেকশন আইন",
+    "target_audience_bn": "নৌযান মালিক, বন্দর ব্যবহারকারী, নাবিক এবং নৌবাণিজ্যিক প্রতিষ্ঠান",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.mos.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৪০১"
+    },
+    "description_bn": "দেশের নৌপরিবহন, অভ্যন্তরীণ নৌপথ, সমুদ্রবন্দর ও মেরিন ইঞ্জিনিয়ারিং খাতের নীতি নির্ধারণ ও ব্যবস্থাপনা করে। এর অধীনে BIWTA, BIWTC, চট্টগ্রাম ও মোংলা বন্দর কর্তৃপক্ষ কাজ করে।"
+  },
+  {
+    "id": "shipping-biwta",
+    "name_bn": "বাংলাদেশ অভ্যন্তরীণ নৌপরিবহন কর্তৃপক্ষ",
+    "parent_office_id": "min-shipping",
+    "office_type_bn": "স্বায়ত্তশাসিত সংস্থা (Autonomous Authority)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশের অভ্যন্তরীণ নৌপথসমূহ",
+    "governing_law_bn": "বাংলাদেশ অভ্যন্তরীণ নৌপরিবহন কর্তৃপক্ষ অধ্যাদেশ, ১৯৫৮",
+    "target_audience_bn": "নৌযান চালক, যাত্রী, পণ্য পরিবহনকারী এবং নৌবন্দর ব্যবহারকারীগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.biwta.gov.bd",
+      "phone": "+৮৮০-২-৯৫৫১২৬০"
+    },
+    "description_bn": "দেশের অভ্যন্তরীণ নৌপথ রক্ষণাবেক্ষণ, নৌযান চলাচল নিয়ন্ত্রণ, নদী ড্রেজিং ও নৌবন্দর ব্যবস্থাপনার দায়িত্ব পালন করে। নাব্যতা সংকট নিরসনে নদী খননও এই প্রতিষ্ঠানের কাজ।"
+  },
+  {
+    "id": "shipping-biwtc",
+    "name_bn": "বাংলাদেশ অভ্যন্তরীণ নৌপরিবহন কর্পোরেশন",
+    "parent_office_id": "min-shipping",
+    "office_type_bn": "সরকারি নৌপরিবহন সংস্থা (State-owned Corporation)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশের অভ্যন্তরীণ নৌপথসমূহ",
+    "governing_law_bn": "বাংলাদেশ অভ্যন্তরীণ নৌপরিবহন কর্পোরেশন অধ্যাদেশ, ১৯৭২",
+    "target_audience_bn": "নৌযাত্রী, পণ্য পরিবহন গ্রাহক এবং ফেরি ব্যবহারকারীগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.biwtc.gov.bd",
+      "phone": "+৮৮০-২-৭১১৮৫৫১"
+    },
+    "description_bn": "অভ্যন্তরীণ নৌপথে যাত্রী ও পণ্য পরিবহন এবং ফেরি সার্ভিস পরিচালনা করে। নদীপথে সাশ্রয়ী মূল্যে পরিবহন সেবা নিশ্চিত করা এর প্রধান লক্ষ্য।"
+  },
+  {
+    "id": "shipping-cpa",
+    "name_bn": "চট্টগ্রাম বন্দর কর্তৃপক্ষ",
+    "parent_office_id": "min-shipping",
+    "office_type_bn": "স্বায়ত্তশাসিত বন্দর সংস্থা (Port Authority)",
+    "jurisdiction_bn": "চট্টগ্রাম বন্দর এলাকা ও সমুদ্র সীমা",
+    "governing_law_bn": "চট্টগ্রাম বন্দর কর্তৃপক্ষ অধ্যাদেশ, ১৯৭৬",
+    "target_audience_bn": "শিপিং এজেন্ট, আমদানি-রপ্তানিকারক, কাস্টমস ব্রোকার এবং জাহাজী প্রতিষ্ঠান",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.cpa.gov.bd",
+      "phone": "+৮৮০-৩১-২৫১১১০০"
+    },
+    "description_bn": "দেশের প্রধান সমুদ্রবন্দর চট্টগ্রাম বন্দর পরিচালনা ও ব্যবস্থাপনা করে। দেশের প্রায় ৯২% আমদানি-রপ্তানি পণ্য এই বন্দরের মাধ্যমে পরিবহিত হয়। জাহাজ আগমন, কনটেইনার হ্যান্ডলিং ও কার্গো অপারেশন এর প্রধান কাজ।"
+  },
+  {
+    "id": "shipping-mpa",
+    "name_bn": "মোংলা বন্দর কর্তৃপক্ষ",
+    "parent_office_id": "min-shipping",
+    "office_type_bn": "স্বায়ত্তশাসিত বন্দর সংস্থা (Port Authority)",
+    "jurisdiction_bn": "মোংলা বন্দর এলাকা ও সমুদ্র সীমা",
+    "governing_law_bn": "মোংলা বন্দর কর্তৃপক্ষ অধ্যাদেশ, ১৯৭৬",
+    "target_audience_bn": "শিপিং এজেন্ট, আমদানি-রপ্তানিকারক এবং জাহাজী প্রতিষ্ঠান",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.mpa.gov.bd",
+      "phone": "+৮৮০-৪০২৭-৫৫০০১"
+    },
+    "description_bn": "দেশের দ্বিতীয় প্রধান সমুদ্রবন্দর মোংলা বন্দর পরিচালনা করে। দক্ষিণ-পশ্চিমাঞ্চলের আমদানি-রপ্তানি বাণিজ্যের প্রধান প্রবেশদ্বার হিসেবে কাজ করে।"
+  },
+  {
+    "id": "shipping-df",
+    "name_bn": "ডকইয়ার্ড অ্যান্ড ইঞ্জিনিয়ারিং ওয়ার্কস লিমিটেড",
+    "parent_office_id": "min-shipping",
+    "office_type_bn": "সরকারি ইঞ্জিনিয়ারিং প্রতিষ্ঠান (State-owned Enterprise)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "কোম্পানি আইন, ১৯৯৪",
+    "target_audience_bn": "জাহাজ মালিক, নৌযান নির্মাতা এবং মেরিন ইঞ্জিনিয়ারিং সেবা গ্রহীতাগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.dewbd.com",
+      "phone": "+৮৮০-২-৭৪৪৯২০০"
+    },
+    "description_bn": "জাহাজ নির্মাণ, মেরামত ও রক্ষণাবেক্ষণ এবং মেরিন ইঞ্জিনিয়ারিং সেবা প্রদান করে। সরকারি-বেসরকারি বিভিন্ন জাহাজ ও নৌযান তৈরি ও সংস্কার করে।"
+  },
+  {
+    "id": "shipping-dmi",
+    "name_bn": "ডিপার্টমেন্ট অব মেরিন ইনস্পেকশন",
+    "parent_office_id": "min-shipping",
+    "office_type_bn": "সরকারি পরিদপ্তর (Directorate)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশের সমুদ্র ও অভ্যন্তরীণ নৌপথ",
+    "governing_law_bn": "মেরিন ইনস্পেকশন আইন, ২০২০; মার্চেন্ট শিপিং আইন",
+    "target_audience_bn": "জাহাজ মালিক, নাবিক এবং মেরিন ইঞ্জিনিয়ারগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.dmi.gov.bd",
+      "phone": "+৮৮০-২-৯৫৫৫০০৬"
+    },
+    "description_bn": "নৌযানের নিবন্ধন, পরিদর্শন, নাবিকদের সার্টিফিকেট প্রদান এবং সমুদ্র নিরাপত্তা নিশ্চিত করে। বাংলাদেশী পতাকাবাহী জাহাজের মান নিয়ন্ত্রণ ও আন্তর্জাতিক মেরিন মান বজায় রাখা এর দায়িত্ব।"
+  },
+  {
+    "id": "min-civil-aviation",
+    "name_bn": "বেসামরিক বিমান পরিবহন ও পর্যটন মন্ত্রণালয়",
+    "parent_office_id": "pm-office",
+    "office_type_bn": "মন্ত্রণালয়",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বেসামরিক বিমান চলাচল আইন, ২০১৭; পর্যটন আইন, ২০১০",
+    "target_audience_bn": "বিমানযাত্রী, পর্যটক, ট্যুর অপারেটর এবং এভিয়েশন প্রতিষ্ঠান",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.mocat.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬২৪১"
+    },
+    "description_bn": "দেশের বিমান পরিবহন ও পর্যটন খাতের নীতি নির্ধারণ ও উন্নয়ন করে। বিমানবন্দর ব্যবস্থাপনা, এয়ারলাইন্স কার্যক্রম ও পর্যটন শিল্পের প্রসার এই মন্ত্রণালয়ের অধীনে পরিচালিত হয়।"
+  },
+  {
+    "id": "aviation-caab",
+    "name_bn": "বেসামরিক বিমান চলাচল কর্তৃপক্ষ",
+    "parent_office_id": "min-civil-aviation",
+    "office_type_bn": "নিয়ন্ত্রক সংস্থা (Regulatory Authority)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশের আকাশ সীমা ও বিমানবন্দরসমূহ",
+    "governing_law_bn": "বেসামরিক বিমান চলাচল আইন, ২০১৭",
+    "target_audience_bn": "এয়ারলাইন্স, বিমানযাত্রী, এভিয়েশন প্রতিষ্ঠান এবং পাইলটগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.caab.gov.bd",
+      "phone": "+৮৮০-২-৮৯০১৪০০"
+    },
+    "description_bn": "দেশের আকাশ সীমায় বিমান চলাচল নিয়ন্ত্রণ, বিমানবন্দর পরিচালনা এবং এভিয়েশন নিরাপত্তা নিশ্চিত করে। হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরসহ সকল বিমানবন্দরের ব্যবস্থাপনা এই কর্তৃপক্ষের অধীনে।"
+  },
+  {
+    "id": "aviation-biman",
+    "name_bn": "বিমান বাংলাদেশ এয়ারলাইন্স লিমিটেড",
+    "parent_office_id": "min-civil-aviation",
+    "office_type_bn": "জাতীয় পতাকাবাহী এয়ারলাইন্স (Flag Carrier)",
+    "jurisdiction_bn": "আভ্যন্তরীণ ও আন্তর্জাতিক রুটসমূহ",
+    "governing_law_bn": "বিমান বাংলাদেশ এয়ারলাইন্স অধ্যাদেশ, ১৯৭৭",
+    "target_audience_bn": "আভ্যন্তরীণ ও আন্তর্জাতিক বিমানযাত্রী এবং কার্গো গ্রাহকগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.biman-airlines.com",
+      "phone": "+৮৮০-২-৮৯০১৭০০"
+    },
+    "description_bn": "বাংলাদেশের জাতীয় পতাকাবাহী এয়ারলাইন্স। দেশীয় ও আন্তর্জাতিক রুটে যাত্রী ও পণ্য পরিবহন সেবা প্রদান করে। বর্তমানে এশিয়া, ইউরোপ ও মধ্যপ্রাচ্যের বিভিন্ন গন্তব্যে ফ্লাইট পরিচালনা করে।"
+  },
+  {
+    "id": "aviation-tourism",
+    "name_bn": "বাংলাদেশ পর্যটন কর্পোরেশন",
+    "parent_office_id": "min-civil-aviation",
+    "office_type_bn": "সরকারি পর্যটন সংস্থা (State-owned Tourism Corporation)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বাংলাদেশ পর্যটন কর্পোরেশন অধ্যাদেশ, ১৯৭২",
+    "target_audience_bn": "দেশী ও বিদেশী পর্যটক, হোটেল ও রেস্টুরেন্ট গ্রাহকগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.bangladeshtourism.gov.bd",
+      "phone": "+৮৮০-২-৯৫৬২৯৪৪"
+    },
+    "description_bn": "দেশের পর্যটন শিল্পের প্রসার, পর্যটন কেন্দ্র উন্নয়ন, হোটেল-মোটেল ব্যবস্থাপনা ও ট্যুর প্যাকেজ প্রদান করে। দেশের বিভিন্ন পর্যটন স্পটে পর্যটন মোটেল ও রিসোর্ট পরিচালনা করে।"
+  },
+  {
+    "id": "aviation-dtap",
+    "name_bn": "ডিপার্টমেন্ট অব ট্যুরিজম অ্যান্ড পর্যটন",
+    "parent_office_id": "min-civil-aviation",
+    "office_type_bn": "সরকারি দপ্তর (Directorate)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "পর্যটন আইন, ২০১০",
+    "target_audience_bn": "ট্যুর অপারেটর, ট্রাভেল এজেন্সি এবং পর্যটন উদ্যোক্তাগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.tourism.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৫৪৭১"
+    },
+    "description_bn": "পর্যটন খাতের নীতি বাস্তবায়ন, পর্যটন প্রতিষ্ঠানের নিবন্ধন ও লাইসেন্স প্রদান এবং পর্যটন তথ্য ও পরিসংখ্যান সংগ্রহ করে। দেশের পর্যটন সম্পদ চিহ্নিত ও সংরক্ষণের কাজ করে।"
+  },
+  {
+    "id": "min-lgrd",
+    "name_bn": "স্থানীয় সরকার, পল্লী উন্নয়ন ও সমবায় মন্ত্রণালয়",
+    "parent_office_id": "pm-office",
+    "office_type_bn": "মন্ত্রণালয়",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "স্থানীয় সরকার (সিটি কর্পোরেশন) আইন, ২০০৯; পল্লী উন্নয়ন ও সমবায় আইন",
+    "target_audience_bn": "স্থানীয় সরকার প্রতিষ্ঠান, ইউনিয়ন পরিষদ, পৌরসভা এবং পল্লী জনগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.lgd.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৩১২"
+    },
+    "description_bn": "স্থানীয় সরকার প্রতিষ্ঠানসমূহের (সিটি কর্পোরেশন, পৌরসভা, ইউনিয়ন পরিষদ) কার্যক্রম তদারকি, পল্লী উন্নয়ন কর্মসূচি বাস্তবায়ন ও সমবায় আন্দোলন পরিচালনা করে। দেশের জনসেবার সবচেয়ে কাছাকাছি পর্যায়ের মন্ত্রণালয়।"
+  },
+  {
+    "id": "lgrd-lgd",
+    "name_bn": "স্থানীয় সরকার বিভাগ",
+    "parent_office_id": "min-lgrd",
+    "office_type_bn": "বিভাগ (Division)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "স্থানীয় সরকার (সিটি কর্পোরেশন) আইন, ২০০৯; স্থানীয় সরকার (পৌরসভা) আইন, ২০০৯",
+    "target_audience_bn": "সিটি কর্পোরেশন, পৌরসভা, ইউনিয়ন পরিষদ এবং স্থানীয় সরকার প্রতিষ্ঠানসমূহ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.lgd.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৩১২"
+    },
+    "description_bn": "স্থানীয় সরকার বিভাগ দেশের সকল স্থানীয় সরকার প্রতিষ্ঠানের নীতি নির্ধারণ, বাজেট বরাদ্দ, জনবল ব্যবস্থাপনা ও কার্যক্রম তদারকি করে। নগরায়ন, ওয়াসা ও নগর পরিকল্পনা বিষয়ক কাজও এই বিভাগের অধীনে।"
+  },
+  {
+    "id": "lgrd-rd",
+    "name_bn": "পল্লী উন্নয়ন বিভাগ",
+    "parent_office_id": "min-lgrd",
+    "office_type_bn": "বিভাগ (Division)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশের পল্লী এলাকা",
+    "governing_law_bn": "পল্লী উন্নয়ন ও সমবায় বিভাগ আইন",
+    "target_audience_bn": "পল্লী জনগণ, সমবায় সমিতি এবং গ্রামীণ প্রতিষ্ঠান",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.rdcd.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৫৩১"
+    },
+    "description_bn": "গ্রামীণ এলাকায় দারিদ্র্য বিমোচন, কর্মসংস্থান সৃষ্টি, সমবায় আন্দোলন পরিচালনা ও পল্লী অবকাঠামো উন্নয়ন কর্মসূচি বাস্তবায়ন করে।"
+  },
+  {
+    "id": "lgrd-dlg",
+    "name_bn": "স্থানীয় সরকার অধিদপ্তর",
+    "parent_office_id": "min-lgrd",
+    "office_type_bn": "বাস্তবায়নকারী অধিদপ্তর (Directorate)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "স্থানীয় সরকার আইন, ২০০৯",
+    "target_audience_bn": "ইউনিয়ন পরিষদ, পৌরসভা ও স্থানীয় সরকারের জনপ্রতিনিধিগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.dlg.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৭৪৩১"
+    },
+    "description_bn": "স্থানীয় সরকার প্রতিষ্ঠানসমূহের প্রশাসনিক ও উন্নয়ন কাজ বাস্তবায়ন করে। ইউনিয়ন পরিষদ ও পৌরসভার কার্যক্রম মনিটরিং, অবকাঠামো প্রকল্প বাস্তবায়ন এবং জনপ্রতিনিধিদের প্রশিক্ষণ প্রদান করে।"
+  },
+  {
+    "id": "lgrd-rdc",
+    "name_bn": "পল্লী উন্নয়ন একাডেমি",
+    "parent_office_id": "min-lgrd",
+    "office_type_bn": "প্রশিক্ষণ ও গবেষণা প্রতিষ্ঠান (Training Academy)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "পল্লী উন্নয়ন একাডেমি আইন",
+    "target_audience_bn": "পল্লী উন্নয়ন কর্মকর্তা, সমবায়ী নেতা এবং গ্রামীণ উদ্যোক্তাগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.rda.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৫৩২"
+    },
+    "description_bn": "পল্লী উন্নয়ন ও দারিদ্র্য বিমোচনে গবেষণা, প্রশিক্ষণ ও কর্মসূচি প্রণয়ন করে। পল্লী উন্নয়ন কর্মকর্তা ও সমবায়ীদের দক্ষতা উন্নয়নে বিভিন্ন প্রশিক্ষণ কোর্স পরিচালনা করে।"
+  },
+  {
+    "id": "lgrd-lgrc",
+    "name_bn": "স্থানীয় সরকার গবেষণা ও প্রশিক্ষণ কেন্দ্র",
+    "parent_office_id": "min-lgrd",
+    "office_type_bn": "গবেষণা ও প্রশিক্ষণ প্রতিষ্ঠান (Research & Training Centre)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "স্থানীয় সরকার আইন, ২০০৯",
+    "target_audience_bn": "স্থানীয় সরকারের জনপ্রতিনিধি, কর্মকর্তা ও গবেষকগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.lgrc.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৭৪৩২"
+    },
+    "description_bn": "স্থানীয় সরকার বিষয়ক গবেষণা, তথ্যভাণ্ডার সংরক্ষণ এবং জনপ্রতিনিধি ও কর্মকর্তাদের প্রশিক্ষণ প্রদান করে। নগর পরিকল্পনা ও স্থানীয় শাসন বিষয়ক জ্ঞান বিস্তারে কাজ করে।"
+  },
+  {
+    "id": "lgrd-rdrs",
+    "name_bn": "পল্লী সড়ক ও অবকাঠামো উন্নয়ন অধিদপ্তর",
+    "parent_office_id": "min-lgrd",
+    "office_type_bn": "কারিগরি অধিদপ্তর (Technical Directorate)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশের পল্লী এলাকা",
+    "governing_law_bn": "পল্লী উন্নয়ন ও সমবায় বিভাগ আইন",
+    "target_audience_bn": "পল্লী এলাকার জনগণ, ঠিকাদার এবং স্থানীয় সরকার প্রতিষ্ঠান",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.rdrs.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৭৪৩৩"
+    },
+    "description_bn": "গ্রামীণ সড়ক ও সেতু নির্মাণ, রক্ষণাবেক্ষণ ও উন্নয়ন করে। পল্লী এলাকার যোগাযোগ ব্যবস্থার উন্নয়ন ও অর্থনৈতিক কর্মকাণ্ড ত্বরান্বিত করতে কাজ করে।"
+  },
+  {
+    "id": "min-housing",
+    "name_bn": "গৃহায়ন ও গণপূর্ত মন্ত্রণালয়",
+    "parent_office_id": "pm-office",
+    "office_type_bn": "মন্ত্রণালয়",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "গৃহায়ন ও গণপূর্ত আইন, ভবন নির্মাণ বিধিমালা, ২০০৮",
+    "target_audience_bn": "গৃহহীন পরিবার, সরকারি ভবন ব্যবহারকারী, স্থপতি এবং নগর পরিকল্পনাবিদ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.mohpw.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৪২৪"
+    },
+    "description_bn": "সরকারি ভবন নির্মাণ, গৃহায়ন নীতি প্রণয়ন এবং নগর উন্নয়ন ও স্থাপত্য নকশা বিষয়ক কাজ করে। এর অধীনে গণপূর্ত অধিদপ্তর, জাতীয় গৃহায়ন কর্তৃপক্ষ ও স্থপতি অধিদপ্তর কাজ করে।"
+  },
+  {
+    "id": "housing-pwd",
+    "name_bn": "গণপূর্ত অধিদপ্তর",
+    "parent_office_id": "min-housing",
+    "office_type_bn": "কারিগরি অধিদপ্তর (Technical Directorate)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "গণপূর্ত বিধিমালা, ২০০৮; সরকারি ভবন নির্মাণ নীতিমালা",
+    "target_audience_bn": "সরকারি দপ্তরসমূহ এবং সরকারি ভবন ব্যবহারকারীগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.pwd.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৪২৫"
+    },
+    "description_bn": "সরকারি ভবন, দপ্তর, বাসভবন ও অন্যান্য স্থাপনা নির্মাণ ও রক্ষণাবেক্ষণ করে। সরকারি সম্পত্তি ব্যবস্থাপনা ও ভাড়া নির্ধারণের দায়িত্বও এই অধিদপ্তরের উপর ন্যস্ত।"
+  },
+  {
+    "id": "housing-nha",
+    "name_bn": "জাতীয় গৃহায়ন কর্তৃপক্ষ",
+    "parent_office_id": "min-housing",
+    "office_type_bn": "স্বায়ত্তশাসিত সংস্থা (Autonomous Authority)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "জাতীয় গৃহায়ন কর্তৃপক্ষ আইন, ২০১৫",
+    "target_audience_bn": "নিম্ন ও মধ্য আয়ের গৃহপ্রত্যাশী এবং গৃহহীন পরিবারসমূহ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.nha.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৪২৬"
+    },
+    "description_bn": "সাশ্রয়ী মূল্যে আবাসন প্রকল্প বাস্তবায়ন, ফ্ল্যাট বরাদ্দ ও গৃহায়ন ঋণ প্রদান করে। নিম্ন ও মধ্য আয়ের মানুষের জন্য আবাসন সুবিধা নিশ্চিত করা এর প্রধান লক্ষ্য।"
+  },
+  {
+    "id": "housing-arch",
+    "name_bn": "স্থপতি অধিদপ্তর",
+    "parent_office_id": "min-housing",
+    "office_type_bn": "কারিগরি অধিদপ্তর (Technical Directorate)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "স্থপতি আইন, ২০১৩; ভবন নির্মাণ বিধিমালা",
+    "target_audience_bn": "সরকারি স্থাপত্য প্রকল্পের নকশাকার, প্রকৌশলী এবং নগর পরিকল্পনাবিদগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.archaeology.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৪২৭"
+    },
+    "description_bn": "সরকারি ভবনের স্থাপত্য নকশা প্রণয়ন, ভবনের নান্দনিক মান নিয়ন্ত্রণ এবং ঐতিহাসিক স্থাপনা সংরক্ষণে কাজ করে। সরকারি স্থাপত্য প্রকল্পের মান ও সৌন্দর্য নিশ্চিত করা এর দায়িত্ব।"
+  },
+  {
+    "id": "housing-urbandev",
+    "name_bn": "নগর উন্নয়ন অধিদপ্তর",
+    "parent_office_id": "min-housing",
+    "office_type_bn": "সরকারি দপ্তর (Directorate)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশের শহরাঞ্চল",
+    "governing_law_bn": "গৃহায়ন ও গণপূর্ত নীতিমালা, নগর পরিকল্পনা বিধিমালা",
+    "target_audience_bn": "নগরবাসী, নগর পরিকল্পনাবিদ এবং স্থানীয় সরকার প্রতিষ্ঠান",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.urbandev.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৪২৮"
+    },
+    "description_bn": "নগর উন্নয়ন পরিকল্পনা প্রণয়ন, নগরায়ন সংক্রান্ত নীতি বাস্তবায়ন এবং শহরাঞ্চলের অবকাঠামো উন্নয়ন কর্মসূচি পরিচালনা করে। টেকসই নগরায়ন নিশ্চিত করাই এর মূল লক্ষ্য।"
+  },
+  {
+    "id": "min-land",
+    "name_bn": "ভূমি মন্ত্রণালয়",
+    "parent_office_id": "pm-office",
+    "office_type_bn": "মন্ত্রণালয়",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "ভূমি সংস্কার আইন, ১৯৮৪; ভূমি জরিপ আইন; নাবি ভূমি আইন",
+    "target_audience_bn": "ভূমি মালিক, কৃষক, ভূমি দলিল লেখক এবং ভূমি সংক্রান্ত সেবা গ্রহীতাগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.minland.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৩৪১"
+    },
+    "description_bn": "দেশের ভূমি ব্যবস্থাপনা, ভূমি সংস্কার, ভূমি জরিপ ও ভূমি রেকর্ড সংরক্ষণের নীতি নির্ধারণ করে। ভূমি জরিপ ও জমির মালিকানা নির্ধারণে সার্ভে অব বাংলাদেশ ও ভূমি রেকর্ড অধিদপ্তর এর অধীনে কাজ করে।"
+  },
+  {
+    "id": "land-board",
+    "name_bn": "ভূমি সংস্কার বোর্ড",
+    "parent_office_id": "min-land",
+    "office_type_bn": "সংস্কার ও বাস্তবায়ন বোর্ড (Reform Board)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "ভূমি সংস্কার আইন, ১৯৮৪",
+    "target_audience_bn": "ভূমিহীন কৃষক, প্রান্তিক চাষি এবং ভূমি সংস্কার বিষয়ক সেবা গ্রহীতাগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.landreform.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৩৪২"
+    },
+    "description_bn": "ভূমি সংস্কার আইন বাস্তবায়ন, ভূমিহীন কৃষকদের জমি বিতরণ, ভূমি খসড়া নিষ্পত্তি ও ভূমি সংক্রান্ত মামলা নিষ্পত্তি ত্বরান্বিত করে। ভূমি ব্যবস্থাপনায় স্বচ্ছতা ও জবাবদিহিতা নিশ্চিত করে।"
+  },
+  {
+    "id": "land-comm",
+    "name_bn": "ভূমি আপিল বোর্ড",
+    "parent_office_id": "min-land",
+    "office_type_bn": "আপিল ও বিচারিক সংস্থা (Appellate Board)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "ভূমি সংস্কার আইন, ১৯৮৪; ভূমি আপিল বোর্ড বিধিমালা",
+    "target_audience_bn": "ভূমি সংক্রান্ত মামলায় জড়িত নাগরিক ও আইনজীবীগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.landappeal.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৩৪৩"
+    },
+    "description_bn": "ভূমি সংক্রান্ত আপিল মামলা নিষ্পত্তি করে। ভূমি অফিস ও ভূমি সংস্কার বোর্ডের সিদ্ধান্তের বিরুদ্ধে আপিল গ্রহণ ও নিষ্পত্তির সর্বোচ্চ প্রশাসনিক ট্রাইব্যুনাল।"
+  },
+  {
+    "id": "land-survey",
+    "name_bn": "সার্ভে অব বাংলাদেশ",
+    "parent_office_id": "min-land",
+    "office_type_bn": "কারিগরি জরিপ সংস্থা (Survey Organization)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "ভূমি জরিপ আইন, ২০১০; সার্ভে অধ্যাদেশ",
+    "target_audience_bn": "ভূমি জরিপ পেশাজীবী, নগর পরিকল্পনাবিদ এবং সরকারি ভূমি ব্যবস্থাপকগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.sob.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৩৪৪"
+    },
+    "description_bn": "দেশের ত্রিমাত্রিক জরিপ, ভূমি জরিপ, ম্যাপ তৈরি ও জিওগ্রাফিক ইনফরমেশন সিস্টেম (GIS) ডেটা ব্যবস্থাপনা করে। ভূমি জরিপের সর্বোচ্চ প্রযুক্তিগত প্রতিষ্ঠান হিসেবে কাজ করে।"
+  },
+  {
+    "id": "land-record",
+    "name_bn": "ভূমি রেকর্ড ও জরিপ অধিদপ্তর",
+    "parent_office_id": "min-land",
+    "office_type_bn": "সরকারি দপ্তর (Directorate)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "ভূমি জরিপ আইন, ২০১০; ভূমি রেকর্ড আইন",
+    "target_audience_bn": "ভূমি মালিক, দলিল লেখক এবং ভূমি রেকর্ড সংক্রান্ত সেবা গ্রহীতাগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.lr.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৩৪৫"
+    },
+    "description_bn": "ভূমি রেকর্ড প্রস্তুত, হালনাগাদ ও সংরক্ষণ করে। ডিজিটাল ভূমি রেকর্ড ব্যবস্থাপনা ও ভূমি জরিপের তথ্য সরবরাহ করে। ভূমি মালিকানা নির্ধারণে চূড়ান্ত রেকর্ড প্রদান করে।"
+  },
+  {
+    "id": "min-water",
+    "name_bn": "পানি সম্পদ মন্ত্রণালয়",
+    "parent_office_id": "pm-office",
+    "office_type_bn": "মন্ত্রণালয়",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "পানি আইন, ২০১৩; বাংলাদেশ পানি উন্নয়ন বোর্ড আইন, ২০১৬",
+    "target_audience_bn": "নদী তীরবর্তী জনগণ, কৃষক, বন্যা দুর্গত এলাকার বাসিন্দা এবং পানি ব্যবস্থাপকগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.mowr.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৪৪১"
+    },
+    "description_bn": "দেশের পানি সম্পদ ব্যবস্থাপনা, বন্যা নিয়ন্ত্রণ, নদী ভাঙন প্রতিরোধ ও সেচ ব্যবস্থার নীতি নির্ধারণ করে। এর অধীনে বাংলাদেশ পানি উন্নয়ন বোর্ড (BWDB), যৌথ নদী কমিশন (JRC) ও পানি সম্পদ পরিকল্পনা সংস্থা (WARPO) কাজ করে।"
+  },
+  {
+    "id": "water-bwdb",
+    "name_bn": "বাংলাদেশ পানি উন্নয়ন বোর্ড",
+    "parent_office_id": "min-water",
+    "office_type_bn": "স্বায়ত্তশাসিত সংস্থা (Autonomous Authority)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বাংলাদেশ পানি উন্নয়ন বোর্ড আইন, ২০১৬",
+    "target_audience_bn": "কৃষক, নদী তীরবর্তী জনগণ, বন্যা দুর্গত এলাকার বাসিন্দা এবং সেচ সুবিধা গ্রহীতাগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.bwdb.gov.bd",
+      "phone": "+৮৮০-২-৯৫৬৪৭৬১"
+    },
+    "description_bn": "বন্যা নিয়ন্ত্রণ, নদী ভাঙন রোধ, সেচ সুবিধা প্রদান ও পানি নিষ্কাশন ব্যবস্থাপনার দায়িত্ব পালন করে। দেশের প্রধান প্রধান নদী বাঁধ, সেচ প্রকল্প ও জলাশয় ব্যবস্থাপনা এই বোর্ডের অধীনে পরিচালিত হয়।"
+  },
+  {
+    "id": "water-jrc",
+    "name_bn": "যৌথ নদী কমিশন",
+    "parent_office_id": "min-water",
+    "office_type_bn": "দ্বিপাক্ষিক কমিশন (Joint Commission)",
+    "jurisdiction_bn": "বাংলাদেশ-ভারত সীমান্তবর্তী অভিন্ন নদীসমূহ",
+    "governing_law_bn": "বাংলাদেশ-ভারত যৌথ নদী কমিশন চুক্তি, ১৯৭২; পানি আইন, ২০১৩",
+    "target_audience_bn": "সীমান্তবর্তী এলাকার জনগণ, কৃষক এবং আন্তর্জাতিক পানি বিশেষজ্ঞগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.jrc.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৪৪২"
+    },
+    "description_bn": "বাংলাদেশ ও ভারতের মধ্যে অভিন্ন নদীর পানি বণ্টন, নদী ব্যবস্থাপনা ও তথ্য বিনিময় সংক্রান্ত আলোচনা ও সমন্বয় করে। তিস্তা, গঙ্গা ও অন্যান্য অভিন্ন নদীর পানি বণ্টন এই কমিশনের মূল কাজ।"
+  },
+  {
+    "id": "water-warpo",
+    "name_bn": "পানি সম্পদ পরিকল্পনা সংস্থা",
+    "parent_office_id": "min-water",
+    "office_type_bn": "পরিকল্পনা সংস্থা (Planning Organization)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "পানি আইন, ২০১৩",
+    "target_audience_bn": "পানি খাতের নীতিনির্ধারক, পরিকল্পনাবিদ এবং গবেষকগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.warpo.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৪৪৩"
+    },
+    "description_bn": "পানি সম্পদ খাতের দীর্ঘমেয়াদি পরিকল্পনা প্রণয়ন, জাতীয় পানি নীতি বাস্তবায়ন ও পানি সম্পদ সম্পর্কিত গবেষণা ও ডেটাবেস ব্যবস্থাপনা করে। বাংলাদেশ ডেল্টা প্ল্যান ২১০০ প্রণয়নে নেতৃত্ব দিয়েছে।"
+  },
+  {
+    "id": "water-flood",
+    "name_bn": "বন্যা পূর্বাভাস ও সতর্কীকরণ কেন্দ্র",
+    "parent_office_id": "min-water",
+    "office_type_bn": "কারিগরি কেন্দ্র (Technical Centre)",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "পানি আইন, ২০১৩; দুর্যোগ ব্যবস্থাপনা আইন, ২০১২",
+    "target_audience_bn": "বন্যা দুর্গত এলাকার জনগণ, দুর্যোগ ব্যবস্থাপনা কর্মকর্তা এবং কৃষকগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "www.ffwc.gov.bd",
+      "phone": "+৮৮০-২-৯৫৪৬৪৪৪"
+    },
+    "description_bn": "দেশের নদীসমূহের পানি স্তর পর্যবেক্ষণ, বন্যার পূর্বাভাস ও সতর্কবার্তা প্রদান করে। আধুনিক হাইড্রোলজিক্যাল মডেল ও স্যাটেলাইট ডেটা ব্যবহার করে বন্যা পরিস্থিতির পূর্বানুমান ও জনগণকে সতর্ক করে।"
+  }
+]

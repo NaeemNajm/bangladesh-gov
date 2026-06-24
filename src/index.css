@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', 'Noto Sans Bengali', system-ui, sans-serif;
+  --font-bengali: 'Noto Sans Bengali', sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-bn {
+  font-family: var(--font-bengali);
+}
