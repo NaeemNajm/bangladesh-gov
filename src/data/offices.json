@@ -4285,5 +4285,125 @@
       "phone": ""
     },
     "description_bn": "দেশের পাট খাতের নীতি প্রণয়ন, পাট চাষ সম্প্রসারণ, পাট উৎপাদন পর্যবেক্ষণ, পাট বাজার ব্যবস্থাপনা ও পাট রপ্তানি উন্নয়নের দায়িত্বপ্রাপ্ত সরকারি অধিদপ্তর।"
+  },
+  {
+    "id": "cag",
+    "name_bn": "মহাহিসাব ও নিরীক্ষা নিয়ন্ত্রক (CAG)",
+    "parent_office_id": "bd",
+    "office_type_bn": "সাংবিধানিক সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "সংবিধানের ১২৭ অনুচ্ছেদ ও নিরীক্ষা আইন",
+    "target_audience_bn": "সরকারি সংস্থা ও দপ্তর",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "সরকারি হিসাব নিরীক্ষা ও নিয়ন্ত্রণের দায়িত্বপ্রাপ্ত সর্বোচ্চ সাংবিধানিক সংস্থা।"
+  },
+  {
+    "id": "edu-technical-division",
+    "name_bn": "কারিগরি ও মাদ্রাসা শিক্ষা বিভাগ",
+    "parent_office_id": "min-education",
+    "office_type_bn": "শিক্ষা বিভাগ",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "শিক্ষা মন্ত্রণালয় সম্পর্কিত বিধি",
+    "target_audience_bn": "শিক্ষা প্রতিষ্ঠান",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "মন্ত্রণালয়ের অধীন কারিগরি ও মাদ্রাসা শিক্ষা পরিচালনার দায়িত্বপ্রাপ্ত বিভাগ।"
+  },
+  {
+    "id": "edu-secondary-division",
+    "name_bn": "মাধ্যমিক ও উচ্চশিক্ষা বিভাগ",
+    "parent_office_id": "min-education",
+    "office_type_bn": "শিক্ষা বিভাগ",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "শিক্ষা মন্ত্রণালয় সম্পর্কিত বিধি",
+    "target_audience_bn": "শিক্ষা প্রতিষ্ঠান",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "মন্ত্রণালয়ের অধীন মাধ্যমিক ও উচ্চশিক্ষা পরিচালনার দায়িত্বপ্রাপ্ত বিভাগ।"
+  },
+  {
+    "id": "dept-explosives",
+    "name_bn": "বিস্ফোরক অধিদপ্তর",
+    "parent_office_id": "min-home",
+    "office_type_bn": "অধিদপ্তর",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বিস্ফোরক আইন, ১৮৮৪ ও বিস্ফোরক দ্রব্য আইন, ১৯০৮",
+    "target_audience_bn": "বিস্ফোরক ব্যবহারকারী প্রতিষ্ঠান ও ব্যক্তি",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "বিস্ফোরক দ্রব্য উৎপাদন, মজুদ, ব্যবহার ও পরিবহন নিয়ন্ত্রণের দায়িত্বপ্রাপ্ত অধিদপ্তর।"
+  },
+  {
+    "id": "gsb",
+    "name_bn": "ভূতাত্ত্বিক জরিপ অধিদপ্তর (GSB)",
+    "parent_office_id": "min-power",
+    "office_type_bn": "অধিদপ্তর",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "খনি ও খনিজ সম্পদ আইন, ২০২৩",
+    "target_audience_bn": "খনি ও খনিজ শিল্প",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের ভূতাত্ত্বিক জরিপ, খনিজ সম্পদ অনুসন্ধান ও ভূগর্ভস্থ পানি মূল্যায়নের দায়িত্বপ্রাপ্ত অধিদপ্তর।"
+  },
+  {
+    "id": "bapex",
+    "name_bn": "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন কোম্পানি (বাপেক্স)",
+    "parent_office_id": "power-petrobangla",
+    "office_type_bn": "কর্পোরেশন",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "পেট্রোলিয়াম আইন, ২০২৩",
+    "target_audience_bn": "জ্বালানি ও খনি খাত",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "পেট্রোবাংলার অধীন পেট্রোলিয়াম অনুসন্ধান ও উত্তোলনকারী প্রতিষ্ঠান।"
+  },
+  {
+    "id": "dwasa",
+    "name_bn": "ঢাকা পানি সরবরাহ ও পয়ঃনিষ্কাশন কর্তৃপক্ষ (ঢাকা ওয়াসা)",
+    "parent_office_id": "min-lgrd",
+    "office_type_bn": "কর্তৃপক্ষ",
+    "jurisdiction_bn": "ঢাকা মহানগরী",
+    "governing_law_bn": "ঢাকা ওয়াসা আইন, ১৯৯৬",
+    "target_audience_bn": "ঢাকাবাসী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "ঢাকা মহানগরীতে পানি সরবরাহ ও পয়ঃনিষ্কাশন সেবা প্রদানকারী প্রতিষ্ঠান।"
+  },
+  {
+    "id": "wzpdco",
+    "name_bn": "পশ্চিম অঞ্চল বিদ্যুৎ বিতরণ কোম্পানি লিমিটেড (WZPDCO)",
+    "parent_office_id": "min-power",
+    "office_type_bn": "কর্পোরেশন",
+    "jurisdiction_bn": "পশ্চিম ও দক্ষিণ-পশ্চিম বাংলাদেশ",
+    "governing_law_bn": "কোম্পানি আইন, ১৯৯৪",
+    "target_audience_bn": "পশ্চিমাঞ্চলের বিদ্যুৎ গ্রাহক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "বাংলাদেশের পশ্চিম ও দক্ষিণ-পশ্চিমাঞ্চলে বিদ্যুৎ বিতরণ সেবা প্রদানকারী প্রতিষ্ঠান।"
   }
 ]
