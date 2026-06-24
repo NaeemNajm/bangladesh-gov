@@ -3009,5 +3009,1281 @@
       "phone": "+৮৮০-২-৯৫১২৭৯৪"
     },
     "description_bn": "সরকারি কর্মচারী হাসপাতাল ঢাকার কাকরাইলে অবস্থিত। এটি সরকারি কর্মচারী ও তাদের পরিবারের জন্য বিশেষায়িত চিকিৎসা সেবা প্রদান করে।"
+  },
+  {
+    "id": "armed-forces-division",
+    "name_bn": "আর্মড ফোর্সেস ডিভিশন (AFD)",
+    "parent_office_id": "pm-office",
+    "office_type_bn": "সামরিক সমন্বয় বিভাগ",
+    "jurisdiction_bn": "সারা বাংলাদেশ",
+    "governing_law_bn": "প্রতিরক্ষা আইন ও সশস্ত্র বাহিনী বিধিমালা",
+    "target_audience_bn": "সেনাবাহিনী, নৌবাহিনী, বিমান বাহিনী ও প্রতিরক্ষা মন্ত্রণালয়",
+    "category": "Executive",
+    "contact_info": {
+      "website": "afd.gov.bd",
+      "phone": "+৮৮০-২-৯৮৭৬৫৪৩"
+    },
+    "description_bn": "আর্মড ফোর্সেস ডিভিশন (AFD) প্রধানমন্ত্রীর কার্যালয়ের অধীনে একটি গুরুত্বপূর্ণ বিভাগ। এটি বাংলাদেশ সশস্ত্র বাহিনীর (সেনাবাহিনী, নৌবাহিনী, বিমান বাহিনী) অপারেশনাল সমন্বয় ও প্রশাসনিক তদারকি করে।"
+  },
+  {
+    "id": "police-cid",
+    "name_bn": "ক্রিমিনাল ইনভেস্টিগেশন ডিপার্টমেন্ট (CID)",
+    "parent_office_id": "police-hq",
+    "office_type_bn": "পুলিশ বিভাগ",
+    "jurisdiction_bn": "সারা বাংলাদেশ",
+    "governing_law_bn": "পুলিশ আইন, ১৮৬১ ও পুলিশ রেগুলেশনস, ১৯৪৩",
+    "target_audience_bn": "সাধারণ জনগণ, আইন-শৃঙ্খলা রক্ষাকারী বাহিনী",
+    "category": "Police",
+    "contact_info": {
+      "website": "https://www.police.gov.bd"
+    },
+    "description_bn": "গোয়েন্দা পুলিশের সর্বোচ্চ সংস্থা। জটিল অপরাধ তদন্ত, ফরেনসিক বিশ্লেষণ ও বিশেষ তদন্ত দলের মাধ্যমে গুরুতর অপরাধের তদন্ত করে।"
+  },
+  {
+    "id": "police-sb",
+    "name_bn": "স্পেশাল ব্রাঞ্চ (SB)",
+    "parent_office_id": "police-hq",
+    "office_type_bn": "পুলিশ বিভাগ",
+    "jurisdiction_bn": "সারা বাংলাদেশ",
+    "governing_law_bn": "পুলিশ আইন, ১৮৬১ ও পুলিশ রেগুলেশনস, ১৯৪৩",
+    "target_audience_bn": "সাধারণ জনগণ, আইন-শৃঙ্খলা রক্ষাকারী বাহিনী",
+    "category": "Police",
+    "contact_info": {
+      "website": "https://www.police.gov.bd"
+    },
+    "description_bn": "বাংলাদেশ পুলিশের গোয়েন্দা শাখা। রাজনৈতিক, সামাজিক ও নিরাপত্তা সংক্রান্ত গোয়েন্দা তথ্য সংগ্রহ ও বিশ্লেষণ করে।"
+  },
+  {
+    "id": "police-db",
+    "name_bn": "ডিটেকটিভ ব্রাঞ্চ (DB)",
+    "parent_office_id": "police-hq",
+    "office_type_bn": "পুলিশ বিভাগ",
+    "jurisdiction_bn": "সারা বাংলাদেশ",
+    "governing_law_bn": "পুলিশ আইন, ১৮৬১ ও পুলিশ রেগুলেশনস, ১৯৪৩",
+    "target_audience_bn": "সাধারণ জনগণ, আইন-শৃঙ্খলা রক্ষাকারী বাহিনী",
+    "category": "Police",
+    "contact_info": {
+      "website": "https://www.police.gov.bd"
+    },
+    "description_bn": "ঢাকা মহানগর ও অন্যান্য মহানগর এলাকায় অপরাধ তদন্তের জন্য নিবেদিত বিশেষ শাখা।"
+  },
+  {
+    "id": "police-rab",
+    "name_bn": "র্যাপিড অ্যাকশন ব্যাটালিয়ন (RAB)",
+    "parent_office_id": "police-hq",
+    "office_type_bn": "পুলিশ বিভাগ",
+    "jurisdiction_bn": "সারা বাংলাদেশ",
+    "governing_law_bn": "পুলিশ আইন, ১৮৬১ ও পুলিশ রেগুলেশনস, ১৯৪৩",
+    "target_audience_bn": "সাধারণ জনগণ, আইন-শৃঙ্খলা রক্ষাকারী বাহিনী",
+    "category": "Police",
+    "contact_info": {
+      "website": "https://www.police.gov.bd"
+    },
+    "description_bn": "বাংলাদেশ পুলিশের এলিট বাহিনী। সন্ত্রাসবাদ, জঙ্গিবাদ, সংগঠিত অপরাধ ও বিশেষ অভিযান পরিচালনা করে।"
+  },
+  {
+    "id": "police-pbi",
+    "name_bn": "পুলিশ ব্যুরো অব ইনভেস্টিগেশন (PBI)",
+    "parent_office_id": "police-hq",
+    "office_type_bn": "পুলিশ বিভাগ",
+    "jurisdiction_bn": "সারা বাংলাদেশ",
+    "governing_law_bn": "পুলিশ আইন, ১৮৬১ ও পুলিশ রেগুলেশনস, ১৯৪৩",
+    "target_audience_bn": "সাধারণ জনগণ, আইন-শৃঙ্খলা রক্ষাকারী বাহিনী",
+    "category": "Police",
+    "contact_info": {
+      "website": "https://www.police.gov.bd"
+    },
+    "description_bn": "পুলিশ বাহিনীর বিশেষ তদন্ত সংস্থা। গুরুতর ও সংবেদনশীল অপরাধের স্বাধীন ও নিরপেক্ষ তদন্ত করে।"
+  },
+  {
+    "id": "police-apbn",
+    "name_bn": "আর্মড পুলিশ ব্যাটালিয়ন (APBn)",
+    "parent_office_id": "police-hq",
+    "office_type_bn": "পুলিশ বিভাগ",
+    "jurisdiction_bn": "সারা বাংলাদেশ",
+    "governing_law_bn": "পুলিশ আইন, ১৮৬১ ও পুলিশ রেগুলেশনস, ১৯৪৩",
+    "target_audience_bn": "সাধারণ জনগণ, আইন-শৃঙ্খলা রক্ষাকারী বাহিনী",
+    "category": "Police",
+    "contact_info": {
+      "website": "https://www.police.gov.bd"
+    },
+    "description_bn": "পুলিশের সশস্ত্র ব্যাটালিয়ন। ভিআইপি নিরাপত্তা, বিশেষ স্থাপনা রক্ষা ও গণতান্ত্রিক প্রতিষ্ঠানের নিরাপত্তা প্রদান করে।"
+  },
+  {
+    "id": "police-highway",
+    "name_bn": "হাইওয়ে পুলিশ",
+    "parent_office_id": "police-hq",
+    "office_type_bn": "পুলিশ বিভাগ",
+    "jurisdiction_bn": "সারা বাংলাদেশ",
+    "governing_law_bn": "পুলিশ আইন, ১৮৬১ ও পুলিশ রেগুলেশনস, ১৯৪৩",
+    "target_audience_bn": "সাধারণ জনগণ, আইন-শৃঙ্খলা রক্ষাকারী বাহিনী",
+    "category": "Police",
+    "contact_info": {
+      "website": "https://www.police.gov.bd"
+    },
+    "description_bn": "জাতীয় মহাসড়কে ট্রাফিক ব্যবস্থাপনা, দুর্ঘটনা প্রতিরোধ ও আইন-শৃঙ্খলা রক্ষার জন্য নিবেদিত পুলিশ ইউনিট।"
+  },
+  {
+    "id": "police-railway",
+    "name_bn": "রেলওয়ে পুলিশ",
+    "parent_office_id": "police-hq",
+    "office_type_bn": "পুলিশ বিভাগ",
+    "jurisdiction_bn": "সারা বাংলাদেশ",
+    "governing_law_bn": "পুলিশ আইন, ১৮৬১ ও পুলিশ রেগুলেশনস, ১৯৪৩",
+    "target_audience_bn": "সাধারণ জনগণ, আইন-শৃঙ্খলা রক্ষাকারী বাহিনী",
+    "category": "Police",
+    "contact_info": {
+      "website": "https://www.police.gov.bd"
+    },
+    "description_bn": "রেলস্টেশন, রেললাইন ও রেলযাত্রীদের নিরাপত্তা নিশ্চিত করার জন্য নিবেদিত পুলিশ ইউনিট।"
+  },
+  {
+    "id": "police-industrial",
+    "name_bn": "শিল্প পুলিশ",
+    "parent_office_id": "police-hq",
+    "office_type_bn": "পুলিশ বিভাগ",
+    "jurisdiction_bn": "সারা বাংলাদেশ",
+    "governing_law_bn": "পুলিশ আইন, ১৮৬১ ও পুলিশ রেগুলেশনস, ১৯৪৩",
+    "target_audience_bn": "সাধারণ জনগণ, আইন-শৃঙ্খলা রক্ষাকারী বাহিনী",
+    "category": "Police",
+    "contact_info": {
+      "website": "https://www.police.gov.bd"
+    },
+    "description_bn": "শিল্প-কারখানা ও অর্থনৈতিক অঞ্চলের নিরাপত্তা নিশ্চিত করার জন্য নিবেদিত পুলিশ ইউনিট।"
+  },
+  {
+    "id": "police-tourist",
+    "name_bn": "টুরিস্ট পুলিশ",
+    "parent_office_id": "police-hq",
+    "office_type_bn": "পুলিশ বিভাগ",
+    "jurisdiction_bn": "সারা বাংলাদেশ",
+    "governing_law_bn": "পুলিশ আইন, ১৮৬১ ও পুলিশ রেগুলেশনস, ১৯৪৩",
+    "target_audience_bn": "সাধারণ জনগণ, আইন-শৃঙ্খলা রক্ষাকারী বাহিনী",
+    "category": "Police",
+    "contact_info": {
+      "website": "https://www.police.gov.bd"
+    },
+    "description_bn": "পর্যটন এলাকায় পর্যটকদের নিরাপত্তা ও সহায়তা প্রদানের জন্য নিবেদিত পুলিশ ইউনিট।"
+  },
+  {
+    "id": "police-training",
+    "name_bn": "পুলিশ ট্রেনিং একাডেমি",
+    "parent_office_id": "police-hq",
+    "office_type_bn": "পুলিশ বিভাগ",
+    "jurisdiction_bn": "সারা বাংলাদেশ",
+    "governing_law_bn": "পুলিশ আইন, ১৮৬১ ও পুলিশ রেগুলেশনস, ১৯৪৩",
+    "target_audience_bn": "সাধারণ জনগণ, আইন-শৃঙ্খলা রক্ষাকারী বাহিনী",
+    "category": "Police",
+    "contact_info": {
+      "website": "https://www.police.gov.bd"
+    },
+    "description_bn": "বাংলাদেশ পুলিশের প্রশিক্ষণ প্রতিষ্ঠান। নতুন রিক্রুট ও বিদ্যমান সদস্যদের প্রশিক্ষণ প্রদান করে।"
+  },
+  {
+    "id": "police-hospital",
+    "name_bn": "পুলিশ হাসপাতাল",
+    "parent_office_id": "police-hq",
+    "office_type_bn": "পুলিশ বিভাগ",
+    "jurisdiction_bn": "সারা বাংলাদেশ",
+    "governing_law_bn": "পুলিশ আইন, ১৮৬১ ও পুলিশ রেগুলেশনস, ১৯৪৩",
+    "target_audience_bn": "সাধারণ জনগণ, আইন-শৃঙ্খলা রক্ষাকারী বাহিনী",
+    "category": "Police",
+    "contact_info": {
+      "website": "https://www.police.gov.bd"
+    },
+    "description_bn": "পুলিশ সদস্য ও তাদের পরিবারের চিকিৎসা সেবা প্রদানের জন্য নিবেদিত হাসপাতাল।"
+  },
+  {
+    "id": "police-traffic",
+    "name_bn": "ট্রাফিক পুলিশ (ঢাকা মেট্রোপলিটন)",
+    "parent_office_id": "police-hq",
+    "office_type_bn": "পুলিশ বিভাগ",
+    "jurisdiction_bn": "সারা বাংলাদেশ",
+    "governing_law_bn": "পুলিশ আইন, ১৮৬১ ও পুলিশ রেগুলেশনস, ১৯৪৩",
+    "target_audience_bn": "সাধারণ জনগণ, আইন-শৃঙ্খলা রক্ষাকারী বাহিনী",
+    "category": "Police",
+    "contact_info": {
+      "website": "https://www.police.gov.bd"
+    },
+    "description_bn": "ঢাকা মহানগরীতে যানবাহন চলাচল ব্যবস্থাপনা, ট্রাফিক আইন প্রয়োগ ও সড়ক নিরাপত্তা নিশ্চিত করে।"
+  },
+  {
+    "id": "police-telecom",
+    "name_bn": "পুলিশ টেলিকমিউনিকেশন",
+    "parent_office_id": "police-hq",
+    "office_type_bn": "পুলিশ বিভাগ",
+    "jurisdiction_bn": "সারা বাংলাদেশ",
+    "governing_law_bn": "পুলিশ আইন, ১৮৬১ ও পুলিশ রেগুলেশনস, ১৯৪৩",
+    "target_audience_bn": "সাধারণ জনগণ, আইন-শৃঙ্খলা রক্ষাকারী বাহিনী",
+    "category": "Police",
+    "contact_info": {
+      "website": "https://www.police.gov.bd"
+    },
+    "description_bn": "পুলিশ বাহিনীর যোগাযোগ ব্যবস্থা ও তথ্য প্রযুক্তি অবকাঠামো তদারকি ও রক্ষণাবেক্ষণ করে।"
+  },
+  {
+    "id": "bsti",
+    "name_bn": "বাংলাদেশ স্ট্যান্ডার্ডস অ্যান্ড টেস্টিং ইনস্টিটিউশন (BSTI)",
+    "parent_office_id": "min-industries",
+    "office_type_bn": "মান নিয়ন্ত্রণ সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বাংলাদেশ স্ট্যান্ডার্ডস অ্যান্ড টেস্টিং ইনস্টিটিউশন আইন",
+    "target_audience_bn": "শিল্প প্রতিষ্ঠান, ভোক্তা ও ব্যবসায়ী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "বাংলাদেশের জাতীয় মান নির্ধারণ, পণ্যের মান নিয়ন্ত্রণ ও সার্টিফিকেশন সংস্থা।"
+  },
+  {
+    "id": "lged",
+    "name_bn": "স্থানীয় সরকার প্রকৌশল অধিদপ্তর (LGED)",
+    "parent_office_id": "min-lgrd",
+    "office_type_bn": "প্রকৌশল ও অবকাঠামো উন্নয়ন সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ (পৌরসভা ও ইউনিয়ন পর্যায়)",
+    "governing_law_bn": "এলজিইডি আইন ও স্থানীয় সরকার আইন",
+    "target_audience_bn": "পৌরসভা, ইউনিয়ন পরিষদ ও গ্রামীণ জনগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "গ্রামীণ অবকাঠামো উন্নয়ন, ইউনিয়ন সড়ক নির্মাণ ও পৌরসভার সড়ক ও ড্রেনেজ ব্যবস্থাপনার দায়িত্বপ্রাপ্ত প্রতিষ্ঠান।"
+  },
+  {
+    "id": "badc",
+    "name_bn": "বাংলাদেশ কৃষি উন্নয়ন কর্পোরেশন (BADC)",
+    "parent_office_id": "min-agriculture",
+    "office_type_bn": "কৃষি উন্নয়ন সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বাংলাদেশ কৃষি উন্নয়ন কর্পোরেশন আইন",
+    "target_audience_bn": "কৃষক, কৃষি উদ্যোক্তা",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "বীজ উৎপাদন ও বিতরণ, সেচ ব্যবস্থাপনা ও কৃষি যান্ত্রিকীকরণের মাধ্যমে দেশের খাদ্য নিরাপত্তা নিশ্চিতকারী সংস্থা।"
+  },
+  {
+    "id": "narcotics-control",
+    "name_bn": "মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর",
+    "parent_office_id": "min-home",
+    "office_type_bn": "মাদক বিরোধী আইন প্রয়োগকারী সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "মাদকদ্রব্য নিয়ন্ত্রণ আইন, ২০১৮",
+    "target_audience_bn": "মাদক ব্যবসায়ী, আসক্ত ও সাধারণ নাগরিক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশে মাদকদ্রব্যের অবৈধ চাষ, উৎপাদন, পরিবহন ও চোরাচালান প্রতিরোধ ও দমনের দায়িত্বপ্রাপ্ত সংস্থা।"
+  },
+  {
+    "id": "prisons-dept",
+    "name_bn": "কারাগার অধিদপ্তর",
+    "parent_office_id": "min-home",
+    "office_type_bn": "কারা ব্যবস্থাপনা সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "কারাগার আইন ও বিধিমালা",
+    "target_audience_bn": "বন্দি, কারা কর্মকর্তা ও আইনজীবী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের সব কারাগারের ব্যবস্থাপনা, বন্দিদের নিরাপত্তা, পুনর্বাসন ও কারা সংস্কার কার্যক্রম পরিচালনাকারী প্রতিষ্ঠান।"
+  },
+  {
+    "id": "rjsc",
+    "name_bn": "যৌথ মূলধন কোম্পানি ও ফার্মের নিবন্ধকের কার্যালয় (RJSC)",
+    "parent_office_id": "min-commerce",
+    "office_type_bn": "কোম্পানি নিবন্ধন সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "কোম্পানি আইন, ১৯৯৪",
+    "target_audience_bn": "ব্যবসায়ী, উদ্যোক্তা ও কোম্পানি",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের সব কোম্পানি, ফার্ম ও ব্যবসায়িক সংস্থা নিবন্ধনের দায়িত্বপ্রাপ্ত সরকারি অফিস।"
+  },
+  {
+    "id": "archaeology-dept",
+    "name_bn": "প্রত্নতত্ত্ব অধিদপ্তর",
+    "parent_office_id": "min-cultural",
+    "office_type_bn": "প্রত্নতাত্ত্বিক সংরক্ষণ সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "প্রত্নতত্ত্ব আইন",
+    "target_audience_bn": "গবেষক, পর্যটক ও সাধারণ নাগরিক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের প্রত্নতাত্ত্বিক নিদর্শন, স্থাপনা ও ঐতিহাসিক সম্পদ আবিষ্কার, সংরক্ষণ ও রক্ষণাবেক্ষণের দায়িত্বপ্রাপ্ত সরকারি অধিদপ্তর।"
+  },
+  {
+    "id": "pgcb",
+    "name_bn": "বাংলাদেশ পাওয়ার গ্রিড কোম্পানি লিমিটেড (PGCB)",
+    "parent_office_id": "min-power",
+    "office_type_bn": "বিদ্যুৎ সঞ্চালন সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "কোম্পানি আইন ও বিদ্যুৎ আইন",
+    "target_audience_bn": "বিদ্যুৎ বিতরণ কোম্পানি ও ভোক্তা",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের জাতীয় বিদ্যুৎ গ্রিড পরিচালনা ও সম্প্রসারণের দায়িত্বপ্রাপ্ত সংস্থা। সারা দেশে বিদ্যুৎ সঞ্চালন লাইন ও সাব-স্টেশন রক্ষণাবেক্ষণ করে।"
+  },
+  {
+    "id": "tcb",
+    "name_bn": "বাংলাদেশ ট্রেডিং কর্পোরেশন (TCB)",
+    "parent_office_id": "min-commerce",
+    "office_type_bn": "পণ্য বিতরণ সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "টিসিবি আইন ও বাণিজ্য মন্ত্রণালয়ের নির্দেশনা",
+    "target_audience_bn": "নিম্নআয়ের ভোক্তা ও সাধারণ জনগণ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "নিত্যপ্রয়োজনীয় পণ্য ক্রয়-বিক্রয় ও বিতরণের মাধ্যমে বাজার মূল্য স্থিতিশীল রাখার দায়িত্বপ্রাপ্ত সরকারি সংস্থা।"
+  },
+  {
+    "id": "rajuk",
+    "name_bn": "রাজধানী উন্নয়ন কর্তৃপক্ষ (RAJUK)",
+    "parent_office_id": "min-housing",
+    "office_type_bn": "নগর উন্নয়ন সংস্থা",
+    "jurisdiction_bn": "ঢাকা মহানগর ও আশপাশের এলাকা",
+    "governing_law_bn": "রাজধানী উন্নয়ন কর্তৃপক্ষ আইন",
+    "target_audience_bn": "ঢাকার নাগরিক, ভবন নির্মাতা ও উদ্যোক্তা",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "ঢাকা শহরের পরিকল্পিত নগর উন্নয়ন, ভবন নির্মাণ অনুমোদন ও নগর অবকাঠামো উন্নয়নের দায়িত্বপ্রাপ্ত সংস্থা।"
+  },
+  {
+    "id": "ndc",
+    "name_bn": "ন্যাশনাল ডিফেন্স কলেজ (NDC)",
+    "parent_office_id": "min-defence",
+    "office_type_bn": "সামরিক শিক্ষা প্রতিষ্ঠান",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "প্রতিরক্ষা মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "সিনিয়র সামরিক ও বেসামরিক কর্মকর্তা",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "সশস্ত্র বাহিনীর সিনিয়র অফিসার ও বেসামরিক কর্মকর্তাদের জাতীয় ও আন্তর্জাতিক নিরাপত্তা বিষয়ে উচ্চতর প্রশিক্ষণ প্রদানকারী প্রতিষ্ঠান।"
+  },
+  {
+    "id": "banbeis",
+    "name_bn": "বাংলাদেশ শিক্ষাতথ্য ও পরিসংখ্যান ব্যুরো (BANBEIS)",
+    "parent_office_id": "min-education",
+    "office_type_bn": "শিক্ষা তথ্য ও গবেষণা সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "শিক্ষা মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "শিক্ষা গবেষক, নীতি নির্ধারক ও শিক্ষাপ্রতিষ্ঠান",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের শিক্ষা খাতের তথ্য-উপাত্ত সংগ্রহ, সংরক্ষণ, বিশ্লেষণ ও প্রকাশনার দায়িত্বপ্রাপ্ত সংস্থা।"
+  },
+  {
+    "id": "bcic",
+    "name_bn": "বাংলাদেশ রাসায়নিক শিল্প কর্পোরেশন (BCIC)",
+    "parent_office_id": "min-industries",
+    "office_type_bn": "রাসায়নিক শিল্প সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বিসিআইসি আইন",
+    "target_audience_bn": "শিল্প প্রতিষ্ঠান ও সার কারখানা",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "সার, কীটনাশক, কাগজ ও অন্যান্য রাসায়নিক পণ্য উৎপাদন ও বিপণনের দায়িত্বপ্রাপ্ত সরকারি শিল্প কর্পোরেশন।"
+  },
+  {
+    "id": "dphe",
+    "name_bn": "জনস্বাস্থ্য প্রকৌশল অধিদপ্তর (DPHE)",
+    "parent_office_id": "min-lgrd",
+    "office_type_bn": "পানি ও স্যানিটেশন সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ (পৌর ও গ্রামীণ)",
+    "governing_law_bn": "জনস্বাস্থ্য প্রকৌশল অধিদপ্তর আইন",
+    "target_audience_bn": "গ্রামীণ জনগণ ও পৌরবাসী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "গ্রামীণ ও পৌর এলাকায় নিরাপদ পানি সরবরাহ, স্যানিটেশন ব্যবস্থাপনা ও পানি পরীক্ষণের দায়িত্বপ্রাপ্ত অধিদপ্তর।"
+  },
+  {
+    "id": "public-libraries",
+    "name_bn": "গণগ্রন্থাগার অধিদপ্তর",
+    "parent_office_id": "min-cultural",
+    "office_type_bn": "গ্রন্থাগার ব্যবস্থাপনা সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "গণগ্রন্থাগার আইন",
+    "target_audience_bn": "পাঠক, গবেষক ও শিক্ষার্থী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের সরকারি গণগ্রন্থাগারসমূহের পরিচালনা ও ব্যবস্থাপনার দায়িত্বপ্রাপ্ত সংস্থা। জেলা ও উপজেলা পর্যায়ে গ্রন্থাগার সেবা নিশ্চিত করে।"
+  },
+  {
+    "id": "berc",
+    "name_bn": "বাংলাদেশ এনার্জি রেগুলেটরি কমিশন (BERC)",
+    "parent_office_id": "min-power",
+    "office_type_bn": "জ্বালানি নিয়ন্ত্রক সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বাংলাদেশ এনার্জি রেগুলেটরি কমিশন আইন, ২০০৩",
+    "target_audience_bn": "বিদ্যুৎ, গ্যাস ও পেট্রোলিয়াম কোম্পানি ও ভোক্তা",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "বিদ্যুৎ, গ্যাস ও পেট্রোলিয়াম খাতের মূল্য নির্ধারণ, লাইসেন্স প্রদান ও ভোক্তা স্বার্থ রক্ষার দায়িত্বপ্রাপ্ত নিয়ন্ত্রক সংস্থা।"
+  },
+  {
+    "id": "nmst",
+    "name_bn": "জাতীয় বিজ্ঞান ও প্রযুক্তি জাদুঘর (NMST)",
+    "parent_office_id": "min-science",
+    "office_type_bn": "বিজ্ঞান জাদুঘর",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বিজ্ঞান ও প্রযুক্তি মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "শিক্ষার্থী, গবেষক ও সাধারণ নাগরিক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "বিজ্ঞান ও প্রযুক্তি বিষয়ক জ্ঞান প্রসারে প্রদর্শনী, বিজ্ঞান মেলা, প্রশিক্ষণ ও কর্মশালা আয়োজনকারী জাতীয় প্রতিষ্ঠান।"
+  },
+  {
+    "id": "bfdc",
+    "name_bn": "বাংলাদেশ চলচ্চিত্র উন্নয়ন কর্পোরেশন (BFDC)",
+    "parent_office_id": "min-info",
+    "office_type_bn": "চলচ্চিত্র উন্নয়ন সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "চলচ্চিত্র আইন",
+    "target_audience_bn": "চলচ্চিত্র নির্মাতা, শিল্পী ও প্রযোজক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের চলচ্চিত্র শিল্পের উন্নয়ন, স্টুডিও ও প্রযোজনা সুবিধা প্রদান এবং চলচ্চিত্র প্রদর্শনী ও বিতরণ ব্যবস্থাপনার দায়িত্বপ্রাপ্ত সংস্থা।"
+  },
+  {
+    "id": "dpdc",
+    "name_bn": "ঢাকা পাওয়ার ডিস্ট্রিবিউশন কোম্পানি লিমিটেড (DPDC)",
+    "parent_office_id": "min-power",
+    "office_type_bn": "বিদ্যুৎ বিতরণ সংস্থা",
+    "jurisdiction_bn": "ঢাকা শহর ও আশপাশের এলাকা",
+    "governing_law_bn": "কোম্পানি আইন ও বিদ্যুৎ আইন",
+    "target_audience_bn": "ঢাকার বিদ্যুৎ গ্রাহক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "ঢাকা মহানগর ও সংলগ্ন এলাকায় বিদ্যুৎ বিতরণ, গ্রাহক সেবা ও বিল ব্যবস্থাপনার দায়িত্বপ্রাপ্ত সংস্থা।"
+  },
+  {
+    "id": "bpc",
+    "name_bn": "বাংলাদেশ পেট্রোলিয়াম কর্পোরেশন (BPC)",
+    "parent_office_id": "min-power",
+    "office_type_bn": "পেট্রোলিয়াম সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "পেট্রোলিয়াম আইন ও কোম্পানি আইন",
+    "target_audience_bn": "জ্বালানি তেল ব্যবহারকারী ও শিল্প প্রতিষ্ঠান",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "অপরিশোধিত জ্বালানি তেল আমদানি, পরিশোধন ও সারা দেশে জ্বালানি তেল বিতরণ ও মূল্য নির্ধারণের দায়িত্বপ্রাপ্ত সরকারি সংস্থা।"
+  },
+  {
+    "id": "consumer-dept",
+    "name_bn": "জাতীয় ভোক্তা অধিকার সংরক্ষণ অধিদপ্তর",
+    "parent_office_id": "min-commerce",
+    "office_type_bn": "ভোক্তা সুরক্ষা সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "ভোক্তা অধিকার সংরক্ষণ আইন, ২০০৯",
+    "target_audience_bn": "ভোক্তা ও ব্যবসায়ী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "বাজার তদারকি, ভোক্তা অধিকার লঙ্ঘন রোধ, নকল/ভেজাল পণ্য নিয়ন্ত্রণ ও ভোক্তা সচেতনতা বৃদ্ধির দায়িত্বপ্রাপ্ত অধিদপ্তর।"
+  },
+  {
+    "id": "dpdt",
+    "name_bn": "পেটেন্ট, ডিজাইন ও ট্রেডমার্ক অধিদপ্তর (DPDT)",
+    "parent_office_id": "min-industries",
+    "office_type_bn": "বৌদ্ধিক সম্পদ সুরক্ষা সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "পেটেন্ট ও ডিজাইন আইন, ট্রেডমার্ক আইন",
+    "target_audience_bn": "উদ্ভাবক, ব্যবসায়ী ও আইনজীবী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশে পেটেন্ট, শিল্প নকশা ও ট্রেডমার্ক নিবন্ধন ও সুরক্ষার দায়িত্বপ্রাপ্ত সরকারি অধিদপ্তর।"
+  },
+  {
+    "id": "nazrul-institute",
+    "name_bn": "নজরুল ইনস্টিটিউট",
+    "parent_office_id": "min-cultural",
+    "office_type_bn": "সাংস্কৃতিক গবেষণা প্রতিষ্ঠান",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "নজরুল ইনস্টিটিউট আইন",
+    "target_audience_bn": "গবেষক, শিক্ষার্থী ও সংস্কৃতিকর্মী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "জাতীয় কবি কাজী নজরুল ইসলামের রচনা সংরক্ষণ, গবেষণা ও প্রকাশনার দায়িত্বপ্রাপ্ত সাংস্কৃতিক প্রতিষ্ঠান।"
+  },
+  {
+    "id": "pppa",
+    "name_bn": "পাবলিক প্রাইভেট পার্টনারশিপ অথরিটি (PPPA)",
+    "parent_office_id": "pm-office",
+    "office_type_bn": "পিপিপি সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "পিপিপি আইন, ২০১৫",
+    "target_audience_bn": "বেসরকারি বিনিয়োগকারী ও সরকারি সংস্থা",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "সরকারি-বেসরকারি অংশীদারিত্ব (PPP) ভিত্তিক বড় প্রকল্প বাস্তবায়নের জন্য নীতি প্রণয়ন, প্রকল্প মূল্যায়ন ও চুক্তি ব্যবস্থাপনার দায়িত্বপ্রাপ্ত সংস্থা।"
+  },
+  {
+    "id": "bsec",
+    "name_bn": "বাংলাদেশ সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ কমিশন (BSEC)",
+    "parent_office_id": "min-finance",
+    "office_type_bn": "পুঁজিবাজার নিয়ন্ত্রক সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বাংলাদেশ সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ কমিশন আইন, ১৯৯৩",
+    "target_audience_bn": "বিনিয়োগকারী, স্টক এক্সচেঞ্জ ও ব্রোকারেজ হাউজ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের পুঁজিবাজার নিয়ন্ত্রণ, স্টক এক্সচেঞ্জ তদারকি, বিনিয়োগকারী সুরক্ষা ও পুঁজিবাজার উন্নয়নের দায়িত্বপ্রাপ্ত নিয়ন্ত্রক সংস্থা।"
+  },
+  {
+    "id": "waqf",
+    "name_bn": "ওয়াকফ প্রশাসকের কার্যালয়",
+    "parent_office_id": "min-religion",
+    "office_type_bn": "ওয়াকফ সম্পদ ব্যবস্থাপনা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "ওয়াকফ অধ্যাদেশ, ১৯৬২",
+    "target_audience_bn": "ওয়াকফ সম্পদের দানকারী, মুতাওয়াল্লি ও সাধারণ মুসলিম",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের ওয়াকফ সম্পদ সংরক্ষণ, ব্যবস্থাপনা ও আইনি সুরক্ষার দায়িত্বপ্রাপ্ত সরকারি অফিস। ওয়াকফ এস্টেটের আয়-ব্যয় তদারকি ও হিসাব নিরীক্ষণ করে।"
+  },
+  {
+    "id": "minimum-wage-board",
+    "name_bn": "ন্যূনতম মজুরি বোর্ড",
+    "parent_office_id": "min-labour",
+    "office_type_bn": "মজুরি নির্ধারণ সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "ন্যূনতম মজুরি অধ্যাদেশ, ২০১৮",
+    "target_audience_bn": "শিল্প শ্রমিক ও নিয়োগকর্তা",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "বিভিন্ন শিল্প খাতে ন্যূনতম মজুরি নির্ধারণ ও সংশোধনের দায়িত্বপ্রাপ্ত ট্রাইপার্টাইট বোর্ড। শ্রমিক, নিয়োগকর্তা ও সরকার প্রতিনিধিদের সমন্বয়ে গঠিত।"
+  },
+  {
+    "id": "bmdc",
+    "name_bn": "বাংলাদেশ মেডিকেল ও ডেন্টাল কাউন্সিল (BMDC)",
+    "parent_office_id": "min-health",
+    "office_type_bn": "চিকিৎসক নিবন্ধন সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বাংলাদেশ মেডিকেল ও ডেন্টাল কাউন্সিল আইন",
+    "target_audience_bn": "চিকিৎসক, ডেন্টিস্ট ও মেডিকেল শিক্ষার্থী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের চিকিৎসক ও ডেন্টিস্টদের নিবন্ধন, লাইসেন্স প্রদান ও মেডিকেল শিক্ষা প্রতিষ্ঠানের স্বীকৃতি প্রদানকারী পেশাগত নিয়ন্ত্রক সংস্থা।"
+  },
+  {
+    "id": "niport",
+    "name_bn": "জনসংখ্যা গবেষণা ও প্রশিক্ষণ ইনস্টিটিউট (NIPORT)",
+    "parent_office_id": "min-health",
+    "office_type_bn": "জনসংখ্যা গবেষণা প্রতিষ্ঠান",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "স্বাস্থ্য মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "গণস্বাস্থ্য গবেষক, নীতি নির্ধারক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "জনসংখ্যা, পরিবার পরিকল্পনা ও মাতৃ-শিশু স্বাস্থ্য বিষয়ক গবেষণা ও প্রশিক্ষণ কার্যক্রম পরিচালনাকারী জাতীয় প্রতিষ্ঠান।"
+  },
+  {
+    "id": "nicvd",
+    "name_bn": "জাতীয় বক্ষব্যাধি ইনস্টিটিউট ও হাসপাতাল (NICVD)",
+    "parent_office_id": "min-health",
+    "office_type_bn": "হৃদরোগ বিশেষায়িত হাসপাতাল",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "স্বাস্থ্য মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "হৃদরোগী ও চিকিৎসক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "বাংলাদেশের অন্যতম বৃহৎ হৃদরোগ বিশেষায়িত হাসপাতাল ও গবেষণা প্রতিষ্ঠান। হৃদরোগ চিকিৎসা, কার্ডিয়াক সার্জারি ও কার্ডিওলজি প্রশিক্ষণ প্রদান করে।"
+  },
+  {
+    "id": "brdb",
+    "name_bn": "বাংলাদেশ পল্লী উন্নয়ন বোর্ড (BRDB)",
+    "parent_office_id": "min-lgrd",
+    "office_type_bn": "পল্লী উন্নয়ন সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "পল্লী উন্নয়ন বোর্ড আইন",
+    "target_audience_bn": "গ্রামীণ জনগণ, সমবায় ও দরিদ্র পরিবার",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "গ্রামীণ দারিদ্র্য বিমোচন, পল্লী উন্নয়ন কর্মসূচি বাস্তবায়ন, সমবায় গঠন ও দরিদ্র জনগোষ্ঠীর আয়-উপার্জন বৃদ্ধির লক্ষ্যে কাজ করা সরকারি সংস্থা।"
+  },
+  {
+    "id": "cooperative",
+    "name_bn": "সমবায় অধিদপ্তর",
+    "parent_office_id": "min-lgrd",
+    "office_type_bn": "সমবায় ব্যবস্থাপনা সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "সমবায় অধ্যাদেশ, ১৯৮৪",
+    "target_audience_bn": "সমবায় সমিতি ও সদস্যবৃন্দ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের সমবায় সমিতিগুলোর নিবন্ধন, তদারকি, অডিট ও উন্নয়নের দায়িত্বপ্রাপ্ত সরকারি অধিদপ্তর। সমবায় ভিত্তিক অর্থনৈতিক কর্মকাণ্ড প্রসার ও সুরক্ষা নিশ্চিত করে।"
+  },
+  {
+    "id": "cda",
+    "name_bn": "চট্টগ্রাম উন্নয়ন কর্তৃপক্ষ (CDA)",
+    "parent_office_id": "min-housing",
+    "office_type_bn": "নগর উন্নয়ন সংস্থা",
+    "jurisdiction_bn": "চট্টগ্রাম মহানগর ও আশপাশের এলাকা",
+    "governing_law_bn": "চট্টগ্রাম উন্নয়ন কর্তৃপক্ষ আইন",
+    "target_audience_bn": "চট্টগ্রামের নাগরিক ও ভবন নির্মাতা",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "চট্টগ্রাম শহরের পরিকল্পিত নগর উন্নয়ন, ভূমি উন্নয়ন, সড়ক ও নিষ্কাশন ব্যবস্থা উন্নয়ন এবং ভবন নির্মাণ অনুমোদনের দায়িত্বপ্রাপ্ত সংস্থা।"
+  },
+  {
+    "id": "barc",
+    "name_bn": "বাংলাদেশ কৃষি গবেষণা কাউন্সিল (BARC)",
+    "parent_office_id": "min-agriculture",
+    "office_type_bn": "কৃষি গবেষণা সমন্বয় সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বাংলাদেশ কৃষি গবেষণা কাউন্সিল আইন",
+    "target_audience_bn": "কৃষি গবেষক ও বিজ্ঞানী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের কৃষি গবেষণা প্রতিষ্ঠানসমূহের মধ্যে সমন্বয়, কৃষি গবেষণা নীতি প্রণয়ন ও গবেষণা তহবিল বিতরণের দায়িত্বপ্রাপ্ত শীর্ষ গবেষণা কাউন্সিল।"
+  },
+  {
+    "id": "cotton-board",
+    "name_bn": "বাংলাদেশ তুলা উন্নয়ন বোর্ড",
+    "parent_office_id": "min-agriculture",
+    "office_type_bn": "তুলা উন্নয়ন সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "তুলা উন্নয়ন বোর্ড আইন",
+    "target_audience_bn": "তুলা চাষি ও বস্ত্র শিল্প",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশে তুলা চাষ সম্প্রসারণ, উন্নত জাতের বীজ উৎপাদন ও বিতরণ, তুলা গবেষণা ও বস্ত্র শিল্পের কাঁচামাল সরবরাহ নিশ্চিতকরণের দায়িত্বপ্রাপ্ত সংস্থা।"
+  },
+  {
+    "id": "dam",
+    "name_bn": "কৃষি বিপণন অধিদপ্তর (DAM)",
+    "parent_office_id": "min-agriculture",
+    "office_type_bn": "কৃষি বিপণন সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "কৃষি বিপণন আইন",
+    "target_audience_bn": "কৃষক ও কৃষি পণ্য ব্যবসায়ী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "কৃষি পণ্যের ন্যায্য মূল্য নিশ্চিতকরণ, বাজার তথ্য সংগ্রহ ও সরবরাহ, কৃষি বিপণন অবকাঠামো উন্নয়ন ও কৃষি পণ্যের মান নিয়ন্ত্রণের দায়িত্বপ্রাপ্ত অধিদপ্তর।"
+  },
+  {
+    "id": "srdi",
+    "name_bn": "মৃত্তিকা সম্পদ উন্নয়ন ইনস্টিটিউট (SRDI)",
+    "parent_office_id": "min-agriculture",
+    "office_type_bn": "মৃত্তিকা গবেষণা প্রতিষ্ঠান",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "কৃষি মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "কৃষক, কৃষি বিজ্ঞানী ও গবেষক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের মৃত্তিকা সম্পদ জরিপ, মৃত্তিকা মানচিত্র প্রণয়ন, মৃত্তিকা উর্বরতা মূল্যায়ন ও কৃষকের জন্য মৃত্তিকা পরীক্ষণ সেবা প্রদানকারী গবেষণা প্রতিষ্ঠান।"
+  },
+  {
+    "id": "fri",
+    "name_bn": "বাংলাদেশ মৎস্য গবেষণা ইনস্টিটিউট (FRI)",
+    "parent_office_id": "min-fisheries",
+    "office_type_bn": "মৎস্য গবেষণা প্রতিষ্ঠান",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "মৎস্য গবেষণা ইনস্টিটিউট আইন",
+    "target_audience_bn": "মৎস্য চাষি ও গবেষক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের মৎস্য সম্পদ উন্নয়নে গবেষণা, মাছ চাষ প্রযুক্তি উদ্ভাবন ও সম্প্রসারণ, পোনা উৎপাদন ও মৎস্য রোগ নিয়ন্ত্রণের দায়িত্বপ্রাপ্ত গবেষণা প্রতিষ্ঠান।"
+  },
+  {
+    "id": "bfidc",
+    "name_bn": "বাংলাদেশ বন শিল্প উন্নয়ন কর্পোরেশন (BFIDC)",
+    "parent_office_id": "min-environment",
+    "office_type_bn": "বন শিল্প সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বন শিল্প উন্নয়ন কর্পোরেশন আইন",
+    "target_audience_bn": "কাঠ শিল্প ও বনজ পণ্য ব্যবসায়ী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "বনজ সম্পদ ভিত্তিক শিল্প প্রতিষ্ঠান পরিচালনা, কাঠ ও বনজ পণ্য প্রক্রিয়াকরণ ও বিপণনের দায়িত্বপ্রাপ্ত সরকারি কর্পোরেশন।"
+  },
+  {
+    "id": "dscsc",
+    "name_bn": "ডিফেন্স সার্ভিসেস কমান্ড অ্যান্ড স্টাফ কলেজ (DSCSC)",
+    "parent_office_id": "min-defence",
+    "office_type_bn": "সামরিক স্টাফ কলেজ",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "প্রতিরক্ষা মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "সশস্ত্র বাহিনীর মেজর/লেঃ কমান্ডার/স্কোয়াড্রন লিডার পর্যায়ের অফিসার",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "সশস্ত্র বাহিনীর মিড-লেভেল অফিসারদের কমান্ড ও স্টাফ প্রশিক্ষণ প্রদানকারী প্রতিষ্ঠান। যৌথ সামরিক অভিযান পরিকল্পনা ও পরিচালনায় দক্ষতা বৃদ্ধি করে।"
+  },
+  {
+    "id": "bma",
+    "name_bn": "বাংলাদেশ মিলিটারি একাডেমি (BMA)",
+    "parent_office_id": "min-defence",
+    "office_type_bn": "সেনা প্রশিক্ষণ প্রতিষ্ঠান",
+    "jurisdiction_bn": "চট্টগ্রাম, বাংলাদেশ",
+    "governing_law_bn": "প্রতিরক্ষা মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "সেনাবাহিনী ক্যাডেট ও অফিসার",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "বাংলাদেশ সেনাবাহিনীর অফিসার ক্যাডেটদের প্রাথমিক সামরিক প্রশিক্ষণ প্রদানকারী প্রতিষ্ঠান। কমিশন্ড অফিসার হিসেবে নিয়োগের পূর্বে বাধ্যতামূলক প্রশিক্ষণ এখানে সম্পন্ন করা হয়।"
+  },
+  {
+    "id": "naval-academy",
+    "name_bn": "বাংলাদেশ নৌবাহিনী একাডেমি",
+    "parent_office_id": "min-defence",
+    "office_type_bn": "নৌ প্রশিক্ষণ প্রতিষ্ঠান",
+    "jurisdiction_bn": "চট্টগ্রাম, বাংলাদেশ",
+    "governing_law_bn": "প্রতিরক্ষা মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "নৌবাহিনী ক্যাডেট ও অফিসার",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "বাংলাদেশ নৌবাহিনীর অফিসার ক্যাডেট ও নাবিকদের প্রশিক্ষণ প্রদানকারী প্রতিষ্ঠান। নৌ যুদ্ধ, নেভিগেশন ও নৌ প্রকৌশল বিষয়ে উচ্চতর প্রশিক্ষণ প্রদান করে।"
+  },
+  {
+    "id": "af-academy",
+    "name_bn": "বাংলাদেশ বিমান বাহিনী একাডেমি",
+    "parent_office_id": "min-defence",
+    "office_type_bn": "বিমান প্রশিক্ষণ প্রতিষ্ঠান",
+    "jurisdiction_bn": "যশোর, বাংলাদেশ",
+    "governing_law_bn": "প্রতিরক্ষা মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "বিমান বাহিনী ক্যাডেট ও অফিসার",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "বাংলাদেশ বিমান বাহিনীর অফিসার ক্যাডেটদের প্রাথমিক ও উচ্চতর উড্ডয়ন প্রশিক্ষণ প্রদানকারী প্রতিষ্ঠান। পাইলট ও নেভিগেটর প্রশিক্ষণের দায়িত্বপ্রাপ্ত।"
+  },
+  {
+    "id": "eed",
+    "name_bn": "শিক্ষা প্রকৌশল অধিদপ্তর (EED)",
+    "parent_office_id": "min-education",
+    "office_type_bn": "শিক্ষা প্রকৌশল সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "শিক্ষা মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "শিক্ষাপ্রতিষ্ঠান ও শিক্ষার্থী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের সব সরকারি শিক্ষাপ্রতিষ্ঠানের অবকাঠামো উন্নয়ন, ভবন নির্মাণ, মেরামত ও রক্ষণাবেক্ষণের দায়িত্বপ্রাপ্ত প্রকৌশল অধিদপ্তর। স্কুল-কলেজের ভৌত অবকাঠামোর মান নিশ্চিত করে।"
+  },
+  {
+    "id": "dte",
+    "name_bn": "কারিগরি শিক্ষা অধিদপ্তর (DTE)",
+    "parent_office_id": "min-education",
+    "office_type_bn": "কারিগরি শিক্ষা সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "কারিগরি শিক্ষা আইন",
+    "target_audience_bn": "কারিগরি শিক্ষার্থী ও প্রশিক্ষণার্থী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের কারিগরি ও বৃত্তিমূলক শিক্ষা ব্যবস্থাপনা, পলিটেকনিক ইনস্টিটিউট পরিচালনা, কারিগরি প্রশিক্ষণ কেন্দ্র তদারকি ও শিল্প-শিক্ষা সমন্বয়ের দায়িত্বপ্রাপ্ত অধিদপ্তর।"
+  },
+  {
+    "id": "tariff-commission",
+    "name_bn": "বাংলাদেশ ট্যারিফ কমিশন",
+    "parent_office_id": "min-commerce",
+    "office_type_bn": "শুল্ক ও বাণিজ্য নীতি সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বাংলাদেশ ট্যারিফ কমিশন আইন",
+    "target_audience_bn": "আমদানিকারক, রপ্তানিকারক ও নীতি নির্ধারক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "শুল্ক ও বাণিজ্য নীতি বিষয়ক পরামর্শ, অ্যান্টি-ডাম্পিং তদন্ত, সুরক্ষা ব্যবস্থা ও বাণিজ্য বাধা চিহ্নিতকরণের দায়িত্বপ্রাপ্ত সরকারি সংস্থা।"
+  },
+  {
+    "id": "btcl",
+    "name_bn": "বাংলাদেশ টেলিকমিউনিকেশনস কোম্পানি লিমিটেড (BTCL)",
+    "parent_office_id": "min-posts",
+    "office_type_bn": "টেলিফোন ও যোগাযোগ সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "কোম্পানি আইন ও ডাক মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "টেলিফোন গ্রাহক ও ব্যবসায়ী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের ল্যান্ডফোন ও ডাটা যোগাযোগ সেবা প্রদানকারী রাষ্ট্রায়ত্ত কোম্পানি। ফাইবার অপটিক নেটওয়ার্ক, আইপি টেলিফোনি ও আন্তর্জাতিক টেলিফোন এক্সচেঞ্জ পরিচালনা করে।"
+  },
+  {
+    "id": "teletalk",
+    "name_bn": "টেলিটক বাংলাদেশ লিমিটেড",
+    "parent_office_id": "min-posts",
+    "office_type_bn": "মোবাইল অপারেটর",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "কোম্পানি আইন ও ডাক মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "মোবাইল ফোন গ্রাহক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "বাংলাদেশের রাষ্ট্রায়ত্ত মোবাইল নেটওয়ার্ক অপারেটর। সারা দেশে ভয়েস, ডাটা ও ৪জি/৫জি সেবা প্রদান করে এবং সরকারি ডিজিটাল সেবা সম্প্রসারণে গুরুত্বপূর্ণ ভূমিকা রাখে।"
+  },
+  {
+    "id": "sparso",
+    "name_bn": "বাংলাদেশ মহাকাশ গবেষণা ও দূর অনুধাবন সংস্থা (SPARRSO)",
+    "parent_office_id": "min-science",
+    "office_type_bn": "মহাকাশ গবেষণা সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বিজ্ঞান ও প্রযুক্তি মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "গবেষক, কৃষি ও জলবায়ু বিশেষজ্ঞ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "স্যাটেলাইট রিমোট সেন্সিং ও জিআইএস প্রযুক্তি ব্যবহার করে কৃষি, বন, পানি সম্পদ, আবহাওয়া ও দুর্যোগ ব্যবস্থাপনা সংক্রান্ত গবেষণা ও তথ্য সরবরাহকারী জাতীয় মহাকাশ গবেষণা সংস্থা।"
+  },
+  {
+    "id": "boesl",
+    "name_bn": "বাংলাদেশ ওভারসিজ এমপ্লয়মেন্ট অ্যান্ড সার্ভিসেস লিমিটেড (BOESL)",
+    "parent_office_id": "min-expatriate",
+    "office_type_bn": "বিদেশ কর্মসংস্থান সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "কোম্পানি আইন ও প্রবাসী কল্যাণ মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "বিদেশগামী কর্মী ও প্রবাসী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "বিদেশে কর্মসংস্থানের জন্য বাংলাদেশি কর্মীদের নিয়োগ, প্রশিক্ষণ ও সেবা প্রদানকারী রাষ্ট্রায়ত্ত কোম্পানি। বিভিন্ন দেশে দক্ষ ও অদক্ষ শ্রমিক পাঠানোর কাজ করে।"
+  },
+  {
+    "id": "mohila-sangstha",
+    "name_bn": "জাতীয় মহিলা সংস্থা",
+    "parent_office_id": "min-women",
+    "office_type_bn": "নারী উন্নয়ন সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "জাতীয় মহিলা সংস্থা আইন",
+    "target_audience_bn": "নারী ও শিশু",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের নারী উন্নয়ন, নারী ক্ষমতায়ন, নারী উদ্যোক্তা তৈরি ও নারী পুনর্বাসনমূলক কার্যক্রম পরিচালনাকারী সংস্থা। জেলা ও উপজেলা পর্যায়ে নারী উন্নয়ন কেন্দ্র পরিচালনা করে।"
+  },
+  {
+    "id": "pid",
+    "name_bn": "প্রেস ইনফরমেশন বিভাগ (PID)",
+    "parent_office_id": "min-info",
+    "office_type_bn": "সরকারি গণমাধ্যম সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "তথ্য মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "সাংবাদিক, গণমাধ্যম ও সাধারণ নাগরিক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "সরকারের বিভিন্ন কার্যক্রম, নীতি ও উন্নয়ন সম্পর্কে সংবাদ ও তথ্য প্রচার, সরকারি বিজ্ঞাপন ব্যবস্থাপনা ও সাংবাদিকদের জন্য প্রেস কার্ড ও স্বীকৃতি প্রদানের দায়িত্বপ্রাপ্ত বিভাগ।"
+  },
+  {
+    "id": "desco",
+    "name_bn": "ঢাকা ইলেকট্রিক সাপ্লাই কোম্পানি লিমিটেড (DESCO)",
+    "parent_office_id": "min-power",
+    "office_type_bn": "বিদ্যুৎ বিতরণ সংস্থা",
+    "jurisdiction_bn": "মিরপুর, গুলশান, উত্তরা, ধানমন্ডি (ঢাকা)",
+    "governing_law_bn": "কোম্পানি আইন ও বিদ্যুৎ আইন",
+    "target_audience_bn": "ঢাকার উত্তরাংশের বিদ্যুৎ গ্রাহক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "ঢাকা মহানগরের উত্তরাংশে (মিরপুর, গুলশান, উত্তরা, বারিধারা, ধানমন্ডি অংশ) বিদ্যুৎ বিতরণ, গ্রাহক সেবা ও বিল ব্যবস্থাপনার দায়িত্বপ্রাপ্ত সংস্থা।"
+  },
+  {
+    "id": "bsfic",
+    "name_bn": "বাংলাদেশ সুগার অ্যান্ড ফুড ইন্ডাস্ট্রিজ কর্পোরেশন (BSFIC)",
+    "parent_office_id": "min-industries",
+    "office_type_bn": "চিনি ও খাদ্য শিল্প সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বিএসএফআইসি আইন",
+    "target_audience_bn": "চিনি কল, খাদ্য প্রক্রিয়াজাতকারী প্রতিষ্ঠান",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের চিনি কল ও খাদ্য প্রক্রিয়াজাতকরণ শিল্প ব্যবস্থাপনার দায়িত্বপ্রাপ্ত সরকারি কর্পোরেশন। আখ চাষ সম্প্রসারণ ও চিনি উৎপাদন বৃদ্ধির লক্ষ্যে কাজ করে।"
+  },
+  {
+    "id": "sericulture",
+    "name_bn": "বাংলাদেশ সেরিকালচার বোর্ড",
+    "parent_office_id": "min-industries",
+    "office_type_bn": "রেশম উন্নয়ন সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "সেরিকালচার বোর্ড আইন",
+    "target_audience_bn": "রেশম চাষি ও রেশম শিল্প",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশে রেশম শিল্পের উন্নয়ন, রেশম পোকার পালন, রেশম চাষ সম্প্রসারণ ও রেশম বীজ উৎপাদন ও বিতরণের দায়িত্বপ্রাপ্ত সরকারি বোর্ড।"
+  },
+  {
+    "id": "bar-council",
+    "name_bn": "বাংলাদেশ বার কাউন্সিল",
+    "parent_office_id": "min-law",
+    "office_type_bn": "আইনজীবী নিবন্ধন সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বাংলাদেশ বার কাউন্সিল আইন",
+    "target_audience_bn": "আইনজীবী ও আইন শিক্ষার্থী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের আইনজীবীদের নিবন্ধন, লাইসেন্স প্রদান ও আইন পেশার মান নিয়ন্ত্রণকারী শীর্ষ সংস্থা। আইন পেশায় নৈতিকতা ও শৃঙ্খলা রক্ষার দায়িত্বপ্রাপ্ত।"
+  },
+  {
+    "id": "mra",
+    "name_bn": "ক্ষুদ্রঋণ নিয়ন্ত্রক কর্তৃপক্ষ (MRA)",
+    "parent_office_id": "min-finance",
+    "office_type_bn": "আর্থিক নিয়ন্ত্রক সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "ক্ষুদ্রঋণ নিয়ন্ত্রক কর্তৃপক্ষ আইন, ২০০৬",
+    "target_audience_bn": "ক্ষুদ্রঋণ প্রতিষ্ঠান ও গ্রাহক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের ক্ষুদ্রঋণ কার্যক্রম নিয়ন্ত্রণ, ক্ষুদ্রঋণ প্রতিষ্ঠানের নিবন্ধন, তদারকি ও গ্রাহক সুরক্ষার দায়িত্বপ্রাপ্ত নিয়ন্ত্রক সংস্থা। প্রান্তিক জনগোষ্ঠীর আর্থিক অন্তর্ভুক্তি নিশ্চিত করে।"
+  },
+  {
+    "id": "icb",
+    "name_bn": "বাংলাদেশ বিনিয়োগ কর্পোরেশন (ICB)",
+    "parent_office_id": "min-finance",
+    "office_type_bn": "বিনিয়োগ ব্যাংক",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বাংলাদেশ বিনিয়োগ কর্পোরেশন আইন, ২০১৮",
+    "target_audience_bn": "বিনিয়োগকারী ও পুঁজিবাজার",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের পুঁজিবাজারে বিনিয়োগ, মিউচুয়াল ফান্ড পরিচালনা, আইপিও ব্যবস্থাপনা ও বিনিয়োগ ব্যাংকিং সেবা প্রদানকারী রাষ্ট্রায়ত্ত আর্থিক প্রতিষ্ঠান।"
+  },
+  {
+    "id": "hbfc",
+    "name_bn": "গৃহ নির্মাণ অর্থ কর্পোরেশন (HBFC)",
+    "parent_office_id": "min-finance",
+    "office_type_bn": "গৃহ অর্থায়ন সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "গৃহ নির্মাণ অর্থ কর্পোরেশন আইন",
+    "target_audience_bn": "গৃহ নির্মাণে আগ্রহী নাগরিক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের নিম্ন ও মধ্য আয়ের জনগোষ্ঠীকে গৃহ নির্মাণ ঋণ প্রদানকারী রাষ্ট্রায়ত্ত আর্থিক প্রতিষ্ঠান। সহজ কিস্তিতে গৃহঋণ প্রদানের মাধ্যমে জনগণের আবাসন সুবিধা নিশ্চিত করে।"
+  },
+  {
+    "id": "bina",
+    "name_bn": "বাংলাদেশ পরমাণু কৃষি ইনস্টিটিউট (BINA)",
+    "parent_office_id": "min-agriculture",
+    "office_type_bn": "কৃষি গবেষণা প্রতিষ্ঠান",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "কৃষি মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "কৃষি গবেষক ও বিজ্ঞানী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "পারমাণবিক প্রযুক্তি ব্যবহার করে উন্নত জাতের ফসল উদ্ভাবন, কৃষি বিকিরণ গবেষণা ও মিউটেশন ব্রিডিংয়ের মাধ্যমে খাদ্য নিরাপত্তা নিশ্চিতকরণে কাজ করা গবেষণা প্রতিষ্ঠান।"
+  },
+  {
+    "id": "birtan",
+    "name_bn": "বাংলাদেশ ফলিত পুষ্টি গবেষণা ও প্রশিক্ষণ ইনস্টিটিউট (BIRTAN)",
+    "parent_office_id": "min-agriculture",
+    "office_type_bn": "পুষ্টি গবেষণা প্রতিষ্ঠান",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "কৃষি মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "কৃষক ও পুষ্টি বিশেষজ্ঞ",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "কৃষি ভিত্তিক পুষ্টি গবেষণা, খাদ্য ও পুষ্টি নিরাপত্তা বিষয়ক প্রশিক্ষণ ও সম্প্রসারণ কার্যক্রম পরিচালনাকারী প্রতিষ্ঠান। খাদ্য পুষ্টি মান উন্নয়নে কাজ করে।"
+  },
+  {
+    "id": "nib",
+    "name_bn": "জাতীয় জৈবপ্রযুক্তি ইনস্টিটিউট (NIB)",
+    "parent_office_id": "min-science",
+    "office_type_bn": "জৈবপ্রযুক্তি গবেষণা প্রতিষ্ঠান",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বিজ্ঞান ও প্রযুক্তি মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "গবেষক ও জৈবপ্রযুক্তি বিজ্ঞানী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশে জৈবপ্রযুক্তি গবেষণা ও উন্নয়ন, জিন প্রকৌশল, মেডিকেল বায়োটেকনোলজি, কৃষি বায়োটেকনোলজি ও শিল্প বায়োটেকনোলজি বিষয়ক গবেষণা ও সেবা প্রদানকারী জাতীয় প্রতিষ্ঠান।"
+  },
+  {
+    "id": "bmrc",
+    "name_bn": "বাংলাদেশ মেডিকেল গবেষণা কাউন্সিল (BMRC)",
+    "parent_office_id": "min-health",
+    "office_type_bn": "চিকিৎসা গবেষণা সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "বাংলাদেশ মেডিকেল গবেষণা কাউন্সিল আইন",
+    "target_audience_bn": "চিকিৎসা গবেষক ও বিজ্ঞানী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশে চিকিৎসা গবেষণার সমন্বয়, তহবিল বিতরণ, নৈতিক অনুমোদন ও গবেষণা নীতি প্রণয়নের দায়িত্বপ্রাপ্ত শীর্ষ সংস্থা। মেডিকেল গবেষণার মান ও নৈতিকতা নিশ্চিত করে।"
+  },
+  {
+    "id": "iph",
+    "name_bn": "জনস্বাস্থ্য ইনস্টিটিউট (IPH)",
+    "parent_office_id": "min-health",
+    "office_type_bn": "জনস্বাস্থ্য পরীক্ষাগার",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "স্বাস্থ্য মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "জনস্বাস্থ্য গবেষক ও নাগরিক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের জাতীয় জনস্বাস্থ্য পরীক্ষাগার। টিকা ও জৈবিক পণ্য উৎপাদন, খাদ্য ও পানির মান পরীক্ষা, রোগ নির্ণয় ও জনস্বাস্থ্য গবেষণা কার্যক্রম পরিচালনা করে।"
+  },
+  {
+    "id": "nimh",
+    "name_bn": "জাতীয় মানসিক স্বাস্থ্য ইনস্টিটিউট ও হাসপাতাল",
+    "parent_office_id": "min-health",
+    "office_type_bn": "মানসিক স্বাস্থ্য প্রতিষ্ঠান",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "স্বাস্থ্য মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "মানসিক রোগী ও চিকিৎসক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের সর্ববৃহৎ মানসিক স্বাস্থ্য বিশেষায়িত হাসপাতাল ও প্রশিক্ষণ প্রতিষ্ঠান। মানসিক রোগ চিকিৎসা, পরামর্শ সেবা, মনোরোগ বিশেষজ্ঞ প্রশিক্ষণ ও মানসিক স্বাস্থ্য সচেতনতা কার্যক্রম পরিচালনা করে।"
+  },
+  {
+    "id": "nape",
+    "name_bn": "প্রাথমিক শিক্ষা জাতীয় একাডেমি (NAPE)",
+    "parent_office_id": "min-primary-mass-education",
+    "office_type_bn": "প্রাথমিক শিক্ষা প্রশিক্ষণ প্রতিষ্ঠান",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "প্রাথমিক শিক্ষা আইন",
+    "target_audience_bn": "প্রাথমিক শিক্ষক ও প্রশিক্ষণার্থী",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের প্রাথমিক শিক্ষকদের প্রশিক্ষণ, প্রাথমিক শিক্ষা কারিকুলাম উন্নয়ন ও শিক্ষা ব্যবস্থাপনা গবেষণার দায়িত্বপ্রাপ্ত জাতীয় একাডেমি। প্রাথমিক শিক্ষার মানোন্নয়নে কাজ করে।"
+  },
+  {
+    "id": "naem",
+    "name_bn": "জাতীয় শিক্ষা ব্যবস্থাপনা একাডেমি (NAEM)",
+    "parent_office_id": "min-education",
+    "office_type_bn": "শিক্ষা ব্যবস্থাপনা প্রশিক্ষণ প্রতিষ্ঠান",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "শিক্ষা মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "শিক্ষা প্রশাসক ও ব্যবস্থাপক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "শিক্ষা প্রতিষ্ঠানের প্রধান, পরিদর্শক ও শিক্ষা প্রশাসকদের প্রশিক্ষণ, শিক্ষা ব্যবস্থাপনা গবেষণা ও নীতি বিশ্লেষণের দায়িত্বপ্রাপ্ত জাতীয় একাডেমি। মাধ্যমিক ও উচ্চশিক্ষা ব্যবস্থাপনার মানোন্নয়নে কাজ করে।"
+  },
+  {
+    "id": "fsa",
+    "name_bn": "বৈদেশিক সেবা একাডেমি (FSA)",
+    "parent_office_id": "min-foreign",
+    "office_type_bn": "কূটনীতি প্রশিক্ষণ প্রতিষ্ঠান",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "পররাষ্ট্র মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "বিসিএস পররাষ্ট্র ক্যাডার কর্মকর্তা",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "বাংলাদেশ সিভিল সার্ভিসের পররাষ্ট্র ক্যাডার কর্মকর্তাদের প্রাথমিক ও উচ্চতর কূটনৈতিক প্রশিক্ষণ প্রদানকারী প্রতিষ্ঠান। কূটনীতি, আন্তর্জাতিক সম্পর্ক ও বৈদেশিক নীতি বিষয়ক প্রশিক্ষণ প্রদান করে।"
+  },
+  {
+    "id": "competition",
+    "name_bn": "বাংলাদেশ প্রতিযোগিতা কমিশন",
+    "parent_office_id": "min-commerce",
+    "office_type_bn": "বাজার নিয়ন্ত্রক সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "প্রতিযোগিতা আইন, ২০১২",
+    "target_audience_bn": "ভোক্তা, ব্যবসায়ী ও শিল্প প্রতিষ্ঠান",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "বাজারে প্রতিযোগিতা সুরক্ষা, একচেটিয়া ব্যবসা প্রতিরোধ, মূল্য কারসাজি ও প্রতিযোগিতা বিরোধী কার্যক্রম দমন এবং ভোক্তা স্বার্থ রক্ষার দায়িত্বপ্রাপ্ত নিয়ন্ত্রক কমিশন।"
+  },
+  {
+    "id": "film-archive",
+    "name_bn": "বাংলাদেশ চলচ্চিত্র সংরক্ষণাগার",
+    "parent_office_id": "min-info",
+    "office_type_bn": "চলচ্চিত্র সংরক্ষণ সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "তথ্য মন্ত্রণালয়ের নির্দেশিকা",
+    "target_audience_bn": "চলচ্চিত্র নির্মাতা ও গবেষক",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের চলচ্চিত্র ঐতিহ্য সংরক্ষণ, দেশি-বিদেশি চলচ্চিত্রের আর্কাইভিং, চলচ্চিত্র প্রদর্শনী ও চিত্রগ্রাহক প্রশিক্ষণের দায়িত্বপ্রাপ্ত জাতীয় সংরক্ষণাগার। বাংলাদেশের চলচ্চিত্র ইতিহাস সংরক্ষণ ও প্রসারে কাজ করে।"
+  },
+  {
+    "id": "jute-directorate",
+    "name_bn": "পাট অধিদপ্তর",
+    "parent_office_id": "min-textiles",
+    "office_type_bn": "পাট নীতি ও উন্নয়ন সংস্থা",
+    "jurisdiction_bn": "সমগ্র বাংলাদেশ",
+    "governing_law_bn": "পাট আইন, ২০১৮",
+    "target_audience_bn": "পাট চাষি ও পাট শিল্প উদ্যোক্তা",
+    "category": "Executive",
+    "contact_info": {
+      "website": "",
+      "phone": ""
+    },
+    "description_bn": "দেশের পাট খাতের নীতি প্রণয়ন, পাট চাষ সম্প্রসারণ, পাট উৎপাদন পর্যবেক্ষণ, পাট বাজার ব্যবস্থাপনা ও পাট রপ্তানি উন্নয়নের দায়িত্বপ্রাপ্ত সরকারি অধিদপ্তর।"
   }
 ]
